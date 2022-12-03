@@ -35,11 +35,8 @@ ___
 - [GitHub Code for GH-Pages Area](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages) (Ctrl-Click)
 - [SILK Corp Guide](https://guide.silkcorp.org) (Ctrl-Click)
 
-### 2. Browse <a href="https://github.com/Note-Hive/Silk-Corp-Guide/issues" target="_blank"> SILK Corp Guide Issues</a> 
-Open the Issue Tab and Browse our available issues.
-
-### 3. **Look for Issue Labels that Match Your Interest**
-Browse our various issues to find one suitable for your skills and interests on the newly opened tab. This chart below describes a few of our most common issue types:
+### 2. **Find an Issues that Matches Your Interest**
+Go to the 2nd Tab you opened, the Issues Tab, and browse our various issues to find one suitable for your skills and interests on the newly opened tab. This chart below describes a few of our most common issue types:
 - $\color{orange}{media}$ $\color{orange}{content}$ - Visual and Audio Content including Graphics, Commercials, Sound Bytes, etc
 - $\color{BurntOrange}{content}$ $\color{BurntOrange}{writing}$ - Long Form Writing that engages, motivates, and potentially converts users to take action
 - $\color{yellow}{copywriting}$ - Short Form Writing text for advertising and marketing
