@@ -70,11 +70,21 @@ Go to the 2nd Tab you opened, the Issues Tab, and browse our various issues to f
    5. Type in a Short Summary in the Message field of What Changes You Made followed by Issue Number
       - Example: _Updated Titles for Landing Page #82_
    7. Press Ctrl-Enter to Submit Changes
-   8. If this is your first time saving on this Repo, then do the following:
-      1. Click "Fork Repository" to Continue
-      2. Press Enter to Create the New Pull Request from the Notification Bar
-      3. Press Enter to Confirm Creating a Patch Branch
-      4. Choose "Switch to Pull Request" when asked if want to switch to the Pull Request
+      - __Note__ If this is your first time saving here, then Click "Fork Repository" to Continue
+   8. Press Enter to Create the New Pull Request from the Notification Bar
+   9. Press Enter to Confirm Creating a Patch Branch
+   10. Choose "Switch to Pull Request" when asked if want to switch to the Pull Request
+
+### 6. Continue Editing
+   After You have Saved, Repeat Steps 1-5 to continue editing and making contributions.
+   
+   
+   
+   
+   
+   
+   
+   
    9. If You have already Forked the Repository, then do the following:
       1. Click on the GitHub Pull Request Button
       2. Click "Create New Pull Request..."
