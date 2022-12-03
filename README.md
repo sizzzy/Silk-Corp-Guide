@@ -91,14 +91,6 @@ Go to the 2nd Tab you opened, the Issues Tab, and browse our various issues to f
 ### 6. Continue Editing
    After You have Saved, Repeat Steps 1-5 to continue editing and making contributions.
    
-   
-   
-   
-   
-   
-   
-   
-
 ---
 
 ### 🔨🔨🔨 Contributing for Advanced Level
@@ -123,8 +115,3 @@ Go to the 2nd Tab you opened, the Issues Tab, and browse our various issues to f
    13. When doing commits, syncing should only take 5 seconds, so check your browser and authorize it.
    
    For more information, use this <a href="https://github.com/firstcontributions/first-contributions" target="_blank"> link </a> as a reference.
-   
-
-> __Note__ Good First Issue
-> 
-The good first issue label is good for newcomers. Issues with this label should be the easiest to work on.
