@@ -30,7 +30,7 @@ ___
 > - [Sample GitHub Profile with USDT Wallet](https://github.com/yennefer-m)
 
 ### 1. <a href="https://github.com/Note-Hive/Silk-Corp-Guide/issues" target="_blank"> View SILK Corp Guide Issues</a>
-Open the Issue area and browse our available issues.
+(Ctrl-Click Above Link to Open in New Tab) Open the Issue area and browse our available issues.
 
 ### 2. **Look for Issue Labels that Match Your Interest**
 Browse our various issues to find one suitable for your skills and interests. This chart below describes a few of our most common issue types:
