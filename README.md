@@ -32,7 +32,7 @@ ___
 ### 1. Prepare Your Workspace
 - Close All Tabs and all other apps except this Guide to minimize distractions and confusion.
 - [SILK Corp Guide Issues](https://github.com/Note-Hive/Silk-Corp-Guide/issues) (Ctrl-Click)
-- [GitHub Code for GH-Pages Area](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages) (Ctrl-Click)
+- [GitHub Code Browser](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages) (Ctrl-Click)
 - [SILK Corp Guide](https://guide.silkcorp.org) (Ctrl-Click)
 
 ### 2. **Find an Issues that Matches Your Interest**
@@ -44,29 +44,34 @@ Go to the 2nd Tab you opened, the Issues Tab, and browse our various issues to f
 - $\color{green}{help}$ $\color{green}{wanted}$ - Extra attention is needed - great for external contributors
 - $\color{lightblue}{documentation}$ - Improvements or additions to documentation
 
-### 4. **Fork the Repos**
-   1. Have two tabs opened in your browser.
-      - [SILK Corp Guide](https://guide.silkcorp.org)
-      - [GitHub Code for GH-Pages Area](https://github.com/Note-Hive/Silk-Corp-Guide/tree/gh-pages)
-   3. Duplicate the GitHub Code Page so you will have 2 tabs of it.
-   4. Find the .html file you want to edit.
-   5. Hit the "." dot button on your keyboard.
-      > __Note__ This will auotmatically open a GitHub Development Environment (GDE).
-      > Now, you should have three tabs opened in your browser.
-      > - The Website
-      > - GitHub Code Page
-      > - GitHub Development Environment (GDE)
-   6. In the GDE, Continue editing the .html file you want to work on.
-      - Make sure to follow the instructions clearly in the original Issue.
-   7. When Finished, Click on the Source Control Icon (or Press Ctrl-Shift-G)
-   8. Type in Short Summary in the Message field of what changes you made 
-   9. Press Ctrl-Enter to Submit Changes
-   10. Click on the GitHub Pull Request Button
-   11. Click "Create New Pull Request..."
-   12. Change the "Into" Area so it is pointing you to the right branch.
+### 3. **Understand the Issue**
+   In this phase, you will start browsing the website so you can get a good understanding of the issue you chose. This process is known as [Requirement Engineering](https://www.educba.com/requirement-engineering/) (RE). Here are a few common steps great engineers practice for really powerful RE.
+   1. Open the Website (Tab 4)
+   2. Browse around and make yourself comfortable
+   3. Tab Back-and-forth between the website & the issue
+   4. Open an extra tab to your favorite search engine to research the topic if you need further help.
+   5. If you have questions or need clarification, then write a comment in the issue.
+   6. You may also want to add your links you are researching in the comment section to help others who are working on this same issue.
+   
+### 4. **Start Making Changes**
+   1. Open the GitHub Code Browser (Tab 3)
+   2. Find the file you want to edit.
+   3. Hit the "." dot button on your keyboard.
+      > __Note__ This will auotmatically open a GitHub Web Editor (GWE).
+   4. In the GWE, Continue editing the files you want to work on. 
+   5. Refer back to the issue you chose periodically to see updates and to write comments as you feel necessary as you continue to make changes.
+      > __Warning__ You MUST continue to Step 5 within 2 hours, otherwise your updates might conflict with others who are working on this same issue!
+
+### 5. **Save Your Changes**
+   5. When Finished, Click on the Source Control Icon (or Press Ctrl-Shift-G)
+   6. Type in Short Summary in the Message field of what changes you made 
+   7. Press Ctrl-Enter to Submit Changes
+   8. Click on the GitHub Pull Request Button
+   9. Click "Create New Pull Request..."
+   14. Change the "Into" Area so it is pointing you to the right branch.
       - We usually have to change this from "main" to "gh-pages"
-   13. Write a Description of what you are changing and why.
-   14. Click the "Create" button to finalize your Pull Request (PR)
+   15. Write a Description of what you are changing and why.
+   16. Click the "Create" button to finalize your Pull Request (PR)
 
 ---
 
