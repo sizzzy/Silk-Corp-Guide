@@ -73,7 +73,19 @@ Go to the 2nd Tab you opened, the Issues Tab, and browse our various issues to f
       > __Note__ If this is your first time saving here, then Click "Fork Repository" to Continue
    8. Press Enter to Create the New Pull Request from the Notification Bar
    9. Press Enter to Confirm Creating a Patch Branch
-   10. Choose "Switch to Pull Request" when asked if want to switch to the Pull Request
+   10. Choose "Cancel" when asked if want to switch to the Pull Request
+      > __Note__ If You have already Forked the Repository, then do the following:
+      > 
+      > 1. Click on the GitHub Pull Request Button
+      > 2. Click "Create New Pull Request..."
+      > 3. Change the "Into" Area so it is pointing you to the right branch.
+      > - We usually have to change this from "main" to "gh-pages"
+      > 4. Write a Description of what you are changing and why.
+      > 5. Click the "Create" button to finalize your Pull Request (PR)
+      >
+      > 1. If you actually want to view your changes, you can click "Switch to Pull Request" here
+      > 2. The system will remember your selection, so be careful what you chose.
+      > 3. You will need to return to the main branch in lower-left of screen if you do change
 
 ### 6. Continue Editing
    After You have Saved, Repeat Steps 1-5 to continue editing and making contributions.
@@ -85,13 +97,6 @@ Go to the 2nd Tab you opened, the Issues Tab, and browse our various issues to f
    
    
    
-   9. If You have already Forked the Repository, then do the following:
-      1. Click on the GitHub Pull Request Button
-      2. Click "Create New Pull Request..."
-      3. Change the "Into" Area so it is pointing you to the right branch.
-      - We usually have to change this from "main" to "gh-pages"
-      4. Write a Description of what you are changing and why.
-      5. Click the "Create" button to finalize your Pull Request (PR)
 
 ---
 
