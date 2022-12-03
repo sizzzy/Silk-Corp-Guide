@@ -9,7 +9,7 @@ ___
 ## Contributing
 > We welcome Pull Requests from everyone, whether you are a student, a teacher, or an expert in the field. When first making a pull request, please keep it short &amp; brief as we establish a relationship. 
 >
-> __Note__ We provide compensation for substantial contributions to our projects. Add a USDT Coin Account in your Profile Bio to be compensated. [Instructions here]([https://google.com](https://www.followchain.org/binance-wallet-address/)).
+> __Note__ We provide compensation for substantial contributions to our projects. Add a USDT Coin Account in your Profile Bio to be compensated. [Instructions here](https://www.followchain.org/binance-wallet-address).
 
 ### 1. <a href="https://github.com/Note-Hive/Silk-Corp-Guide/issues" target="_blank"> View SILK Corp Guide Issues</a>
 Open the Issue area and browse our available issues.
