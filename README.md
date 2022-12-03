@@ -1,19 +1,27 @@
 # [SILK Corp Guide](https://guide.silkcorp.org)
+SILK Corp's is a Social Enterprise headquartered in USA with a mission to provide a peaceful community of people while empowering their mental, physical and emotional well-being. We welcome everyone, including women, children, and people of all ages, to create a community where they learn and contribute together. It drives inspiration for its essence from the Strength, Intelligence, Love, and Kindness of people. 
 
-[SILK Corp Website](https://silkcorp.org)
+Strengthening the body and the mind is a motivation to move forward and do better in life. Knowledge is power and sharing this power around can support intellectual growth. Everything flows in harmony with the existence of love and devotion. Kindness makes the community a very inviting space. Altogether S.I.L.K view strives to make you the best version of yourself each day.
+
+[silkcorp.org](https://silkcorp.org)
+___
 
 ## Contributing
-> We welcome Pull Requests from everyone, whether you are a student, a teacher, or an expert in the field. When first making a pull request, please keep it short &amp; brief as we establish a relationship. Afterwards &amp; when available, we will provide compensation for substantial contributions to our projects. 
+> We welcome Pull Requests from everyone, whether you are a student, a teacher, or an expert in the field. When first making a pull request, please keep it short &amp; brief as we establish a relationship. 
+>
+> __Note__ We provide compensation for substantial contributions to our projects. Add a USDT Coin Account in your Profile Bio to be compensated. [Instructions here]([https://google.com](https://www.followchain.org/binance-wallet-address/)).
 
 ### 1. <a href="https://github.com/Note-Hive/Silk-Corp-Guide/issues" target="_blank"> View SILK Corp Guide Issues</a>
 Open the Issue area and browse our available issues.
 
 ### 2. **Look for Issue Labels that Match Your Interest**
 Browse our various issues to find one suitable for your skills and interests. This chart below describes a few of our most common issue types:
-<span style="color:blue">good first issue</span> - Good for newcomers
-<span style="color:blue">help wanted</span> - Extra attention is needed
-
-The good first issue label is good for newcomers. Issues with this label should be the easiest to work on.
+- $\color{orange}{media}$ $\color{orange}{content}$ - Visual and Audio Content including Graphics, Commercials, Sound Bytes, etc
+- $\color{BurntOrange}{content}$ $\color{BurntOrange}{writing}$ - Long Form Writing that engages, motivates, and potentially converts users to take action
+- $\color{yellow}{copywriting}$ - Short Form Writing text for advertising and marketing
+- $\color{violet}{good}$ $\color{violet}{first}$ $\color{violet}{issue}$ - Good for newcomers
+- $\color{green}{help}$ $\color{green}{wanted}$ - Extra attention is needed - great for external contributors
+- $\color{lightblue}{documentation}$ - Improvements or additions to documentation
 
 ### 3. **Fork the Repos**
    1. Have two tabs opened in your browser.
@@ -55,6 +63,8 @@ The good first issue label is good for newcomers. Issues with this label should 
    13. When doing commits, syncing should only take 5 seconds, so check your browser and authorize it.
    
    For more information, use this <a href="https://github.com/firstcontributions/first-contributions" target="_blank"> link </a> as a reference.
+   
 
-    
----
+> __Note__ Good First Issue
+> 
+The good first issue label is good for newcomers. Issues with this label should be the easiest to work on.
