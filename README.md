@@ -55,11 +55,15 @@ Browse our various issues to find one suitable for your skills and interests. Th
       > - GitHub Development Environment (GDE)
    6. In the GDE, Continue editing the .html file you want to work on.
       - Make sure to follow the instructions clearly in the original Issue.
-   7. Save File When Finished
-   8. 
-   9. 
-   10. Do a Pull Request using the Source Control icon.
-   11. 
+   7. When Finished, Click on the Source Control Icon (or Press Ctrl-Shift-G)
+   8. Type in Short Summary in the Message field of what changes you made 
+   9. Press Ctrl-Enter to Submit Changes
+   10. Click on the GitHub Pull Request Button
+   11. Click "Create New Pull Request..."
+   12. Change the "Into" Area so it is pointing you to the right branch.
+      - We usually have to change this from "main" to "gh-pages"
+   13. Write a Description of what you are changing and why.
+   14. Click the "Create" button to finalize your Pull Request (PR)
 
 ---
 
