@@ -1,6 +1,6 @@
-# SILK-Corp-Guide
+# [SILK Corp Guide](https://guide.silkcorp.org)
 
-[Guide](https://guide.silkcorp.org)
+
 
 [SILK Corp Website](https://silkcorp.org)
 
