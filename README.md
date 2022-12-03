@@ -45,17 +45,21 @@ Browse our various issues to find one suitable for your skills and interests. Th
    1. Have two tabs opened in your browser.
       - [SILK Corp Guide](https://guide.silkcorp.org)
       - [GitHub Code for GH-Pages Area](https://github.com/Note-Hive/Silk-Corp-Guide/tree/gh-pages)
-   3. Duplicate the GitHub Page tab.
-   4. Click the .html file you want to edit.
-   5. Hit the "." or dot button on your keyboard.
-   6. It will direct you to a GitHub Development Environment.
-   7. Now, you should have three tabs opened in your browser.
-      - The Website
-      - GitHub
-      - GitHub Development Environment
-   8. Edit the .html file you want to work on.
-   9. Save File When Finished
+   3. Duplicate the GitHub Code Page so you will have 2 tabs of it.
+   4. Find the .html file you want to edit.
+   5. Hit the "." dot button on your keyboard.
+      > __Note__ This will auotmatically open a GitHub Development Environment (GDE).
+      > Now, you should have three tabs opened in your browser.
+      > - The Website
+      > - GitHub Code Page
+      > - GitHub Development Environment (GDE)
+   6. In the GDE, Continue editing the .html file you want to work on.
+      - Make sure to follow the instructions clearly in the original Issue.
+   7. Save File When Finished
+   8. 
+   9. 
    10. Do a Pull Request using the Source Control icon.
+   11. 
 
 ---
 
