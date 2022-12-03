@@ -63,15 +63,19 @@ Go to the 2nd Tab you opened, the Issues Tab, and browse our various issues to f
       > __Warning__ You MUST continue to Step 5 within 2 hours, otherwise your updates might conflict with others who are working on this same issue!
 
 ### 5. **Save Your Changes**
-   5. When Finished, Click on the Source Control Icon (or Press Ctrl-Shift-G)
-   6. Type in Short Summary in the Message field of what changes you made 
+   1. Go to the Issue Area (Tab 2)
+      - Keep Note of your Issue #. 
+   3. Go to the GWE Area (Tab 3)
+   4. Click on the Source Control Icon (or Press Ctrl-Shift-G)
+   5. Type in a Short Summary in the Message field of What Changes You Made followed by Issue Number
+      - Example: _Updated Titles for Landing Page #82_
    7. Press Ctrl-Enter to Submit Changes
    8. Click on the GitHub Pull Request Button
    9. Click "Create New Pull Request..."
-   14. Change the "Into" Area so it is pointing you to the right branch.
+   10. Change the "Into" Area so it is pointing you to the right branch.
       - We usually have to change this from "main" to "gh-pages"
-   15. Write a Description of what you are changing and why.
-   16. Click the "Create" button to finalize your Pull Request (PR)
+   11. Write a Description of what you are changing and why.
+   12. Click the "Create" button to finalize your Pull Request (PR)
 
 ---
 
