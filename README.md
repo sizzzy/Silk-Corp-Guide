@@ -73,19 +73,20 @@ Go to the 2nd Tab you opened, the Issues Tab, and browse our various issues to f
       > __Note__ If this is your first time saving here, then Click "Fork Repository" to Continue
    8. Press Enter to Create the New Pull Request from the Notification Bar
    9. Press Enter to Confirm Creating a Patch Branch
-   10. Choose "Cancel" when asked if want to switch to the Pull Request
-      > __Note__ If You have already Forked the Repository, then do the following:
+   3. Choose "Cancel" when asked if want to switch to the Pull Request
+      > __Note__ If You have actually want to see your changes, then go ahead and choose "Switch to Pull Request"
       > 
-      > 1. Click on the GitHub Pull Request Button
-      > 2. Click "Create New Pull Request..."
-      > 3. Change the "Into" Area so it is pointing you to the right branch.
-      > - We usually have to change this from "main" to "gh-pages"
-      > 4. Write a Description of what you are changing and why.
-      > 5. Click the "Create" button to finalize your Pull Request (PR)
-      >
-      > 1. If you actually want to view your changes, you can click "Switch to Pull Request" here
-      > 2. The system will remember your selection, so be careful what you chose.
-      > 3. You will need to return to the main branch in lower-left of screen if you do change
+      > Then, to make further changes, you'll need to do the following procedure: <br>
+      > 1. Click on the GitHub Pull Request Button <br>
+      > 2. Click "Create New Pull Request..." <br>
+      > 3. Change the "Into" Area so it is pointing you to the right branch. <br>
+      > 4. We usually have to change this from "main" to "gh-pages" <br>
+      > 5. Write a Description of what you are changing and why. <br>
+      > 6. Click the "Create" button to finalize your Pull Request (PR) <br>
+      > <br>
+      > The system will remember your selection, so be careful what you choose.<br>
+      > You will need to return to the main branch in lower-left of screen if you do change<br>
+   
 
 ### 6. Continue Editing
    After You have Saved, Repeat Steps 1-5 to continue editing and making contributions.
