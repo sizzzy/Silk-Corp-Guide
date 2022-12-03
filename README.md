@@ -68,9 +68,9 @@ Go to the 2nd Tab you opened, the Issues Tab, and browse our various issues to f
    3. Go to the GWE Area (Tab 3)
    4. Click on the Source Control Icon (or Press Ctrl-Shift-G)
    5. Type in a Short Summary in the Message field of What Changes You Made followed by Issue Number
-      - Example: _Updated Titles for Landing Page #82_
+      - `Example: _Updated Titles for Landing Page #82_`
    7. Press Ctrl-Enter to Submit Changes
-      - __Note__ If this is your first time saving here, then Click "Fork Repository" to Continue
+      > __Note__ If this is your first time saving here, then Click "Fork Repository" to Continue
    8. Press Enter to Create the New Pull Request from the Notification Bar
    9. Press Enter to Confirm Creating a Patch Branch
    10. Choose "Switch to Pull Request" when asked if want to switch to the Pull Request
