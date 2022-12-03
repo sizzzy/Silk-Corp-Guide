@@ -70,12 +70,16 @@ Go to the 2nd Tab you opened, the Issues Tab, and browse our various issues to f
    5. Type in a Short Summary in the Message field of What Changes You Made followed by Issue Number
       - Example: _Updated Titles for Landing Page #82_
    7. Press Ctrl-Enter to Submit Changes
-   8. Click on the GitHub Pull Request Button
-   9. Click "Create New Pull Request..."
-   10. Change the "Into" Area so it is pointing you to the right branch.
+   8. If this is your first time saving on this Repo, then do the following:
+      1. Click "Fork Repository" to Continue
+      2. Press Enter to Create the New Pull Request from the Notification Bar
+      3. Press Enter to Confirm Creating a Patch Branch
+   10. Click on the GitHub Pull Request Button
+   11. Click "Create New Pull Request..."
+   12. Change the "Into" Area so it is pointing you to the right branch.
       - We usually have to change this from "main" to "gh-pages"
-   11. Write a Description of what you are changing and why.
-   12. Click the "Create" button to finalize your Pull Request (PR)
+   13. Write a Description of what you are changing and why.
+   14. Click the "Create" button to finalize your Pull Request (PR)
 
 ---
 
