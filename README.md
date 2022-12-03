@@ -74,7 +74,7 @@ Go to the 2nd Tab you opened, the Issues Tab, and browse our various issues to f
       1. Click "Fork Repository" to Continue
       2. Press Enter to Create the New Pull Request from the Notification Bar
       3. Press Enter to Confirm Creating a Patch Branch
-      4. Choose "Cancel" when asked if want to switch to the Pull Request
+      4. Choose "Switch to Pull Request" when asked if want to switch to the Pull Request
    9. If You have already Forked the Repository, then do the following:
       1. Click on the GitHub Pull Request Button
       2. Click "Create New Pull Request..."
