@@ -1,7 +1,10 @@
 # Overview
-
-# SILK Corp
 - ## SILK Franchise Program
+- ## Industry & Market Analysis
+
+# Executive Summary (Add-on, Specific to Franchisee)
+- ## (Location)
+- ## (Summary of Investment)
 
 # WHO WE ARE?
 - ## SILK Mission
@@ -57,6 +60,12 @@
   + Gardening
   + Community Events
 
+# SILK TEAM
+- ## Key Management 
+- ## OktoPod
+- ## Personnel Plan
+
+
 # WORKING CULTURE
 - ## Environment
 - ## Dress Code
@@ -64,10 +73,15 @@
 - ## Code of Conduct & Ethics
 - ## Working Hours
 - ## Vacation Policy
-
-# SILK TEAM
-- ## OktoPod
+ 
 
 # SILK Location
 - ## Tao Cottages
 - ## Mt. Cottages
+
+# Financials
+- ## Break-even Analysis
+- ## Sales Forecast
+- ## Profit & Loss
+- ## Impact to the U.S. Economy
+- ## Balance Sheet
