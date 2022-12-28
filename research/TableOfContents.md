@@ -1,12 +1,9 @@
-# Overview
+# OVERVIEW
 - ## SILK Franchise Program
-- ## Industry & Market Analysis
+- ## Location
+- ## Summary of Investment
 
-# Executive Summary (Add-on, Specific to Franchisee)
-- ## (Location)
-- ## (Summary of Investment)
-
-# WHO WE ARE?
+# WHO WE ARE
 - ## SILK Mission
 - ## SILK Goals 
 - ## SILK Values
@@ -74,10 +71,11 @@
 - ## Working Hours
 - ## Vacation Policy
  
-
 # SILK Location
 - ## Tao Cottages
 - ## Mt. Cottages
+
+# Industry & Market Analysis
 
 # Financials
 - ## Break-even Analysis
