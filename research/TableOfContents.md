@@ -50,3 +50,9 @@
   + Culinary Arts
 
 - ## K - Kindness
+  + Giving
+  + Sharing
+  + Volunteering
+  + Philanthropy
+  + Gardening
+  + Community Events
