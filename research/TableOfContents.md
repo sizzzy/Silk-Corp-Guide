@@ -56,3 +56,18 @@
   + Philanthropy
   + Gardening
   + Community Events
+
+# WORKING CULTURE
+- ## Environment
+- ## Dress Code
+- ## Communication
+- ## Code of Conduct & Ethics
+- ## Working Hours
+- ## Vacation Policy
+
+# SILK TEAM
+- ## OktoPod
+
+# SILK Location
+- ## Tao Cottages
+- ## Mt. Cottages
