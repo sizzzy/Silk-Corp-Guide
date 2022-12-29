@@ -1,34 +1,44 @@
 # OVERVIEW
-- ## SILK Franchise Program
-- ## MOV Region
-- ## Summary of Investment
+- ## MISSION
+  + SILK Women
+- ## BRIEF HISTORY
+  + SILK Road
 
-# WHO WE ARE
-- ## SILK Mission
-- ## SILK Goals 
-- ## SILK Values
-
-# BRIEF HISTORY
-- ## SILK Road
-- ## SILK Women
+# OUR CULTURE 
+- ## Work Ethic
+- ## Work Life Balance
+- ## Professionalism
 
 # SILK Life
-- ## (Overview)
+- ## S - Strength
+    + Health
+    + Mental Strength
+- ## I - Intelligence
+- ## L - Love
+- ## K - Kindness
+    + Giving
+    + Sharing
+    + Volunteering
+    + Philanthropy
+    + Gardening
+    + Community Strength
+    + Community Events
 
-# SILK Y.A.C.H.T
+# SILK Y.A.C.H.T (Services)
+- ## Overview
 - ## SILK Yoga
 - ## SILK Arts
 - ## SILK Café
+    + Catering
+    + Culinary Arts
 - ## SILK Home
+    + Governess
+    + Childcare
+    + Hospitality
+    + Interior Design
+    + Kitchen Design Services
+    + Decorating Consultant
 - ## SILK Tech
-
-# OUR PASSION
-- ## S - Strength
-  + Health
-  + Mental Strength
-  + Community Strength
-
-- ## I - Intelligence
   + BPO Management
   + Agile Management
   + Project Management
@@ -41,51 +51,45 @@
   + Translation
   + Skills
 
-- ## L - Love
-  + Governess
-  + Childcare
-  + Hospitality
-  + Interior Design
-  + Kitchen Design Services
-  + Decorating Consultant
-  + Catering
-  + Culinary Arts
-
-- ## K - Kindness
-  + Giving
-  + Sharing
-  + Volunteering
-  + Philanthropy
-  + Gardening
-  + Community Events
-
-# SILK TEAM
-- ## Professional Experience
-- ## Key Management 
-- ## Personnel Plan
-
-
-# WORKING CULTURE
-- ## Environment
-- ## Dress Code
-- ## Communication
-- ## Code of Conduct & Ethics
-- ## Working Hours
-- ## Vacation Policy
- 
+# SILK COMPETITIVE ADVANTAGES
+- ## State of the Art Websites
+- ## Outreach Program
+- ## Marketing Program
+- ## 20 Years of Service
 
 # COMPETITION ANALYSIS
 - ## Competition Analysis Table
 - ## Competitive Advantages
 
-
-# Industry & Market Analysis
+# INDUSTRY & MARKET ANALYSIS
 - ## Industry Analysis
 - ## Market Analysis
 
-# Financials
+# LOCATIONS
+- ## Mid-Ohio Valley
+- ## Costa Rica
+- ## Pakistan
+
+# SILK TEAM
+- ## Key Management 
+- ## Personnel Plan
+
+# STARTING A FRANCHISE
+- ## Overview
+- ## Why SILK
+- ## World Class Training
+- ## Scholarship Program
+
+# FINANCIALS
 - ## Break-even Analysis
 - ## Sales Forecast
 - ## Profit & Loss
 - ## Impact to the U.S. Economy
 - ## Balance Sheet
+
+# ABOUT THE FRANCHISEE
+- ## FRANCHISEE SILK HISTORY
+- ## FRANCHISEE CAPABILITIES STATEMENT
+- ## PROFESSIONAL EXPERIENCE
+ 
+# CONCLUSION
