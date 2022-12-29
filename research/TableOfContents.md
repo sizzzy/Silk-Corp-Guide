@@ -13,8 +13,7 @@
 - ## SILK Women
 
 # SILK Life
-- ## (Overview of SILK Life)
-  + (Competitive Advantages)
+- ## (Overview)
 
 # SILK Y.A.C.H.T
 - ## SILK Yoga
@@ -76,7 +75,7 @@
  
 
 # COMPETITION ANALYSIS
-- ## (Competition Analysis Table)
+- ## Competition Analysis Table
 - ## Competitive Advantages
 
 
