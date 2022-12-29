@@ -14,26 +14,35 @@
     + Health
     + Mental Strength
 - ## I - Intelligence
+    + Cognitive Ability
+    + Logic
+    + Discern Right & Wrong
 - ## L - Love
 - ## K - Kindness
     + Giving
     + Sharing
     + Volunteering
     + Philanthropy
-    + Gardening
     + Community Strength
     + Community Events
 
 # SILK Y.A.C.H.T (Services)
 - ## Overview
 - ## SILK Yoga
+    + Ayurvedic
+    + Allied Health
+    + Tai Chi
 - ## SILK Arts
+    + Crafts
+    + Music
+    + Dance
 - ## SILK Café
     + Catering
     + Culinary Arts
 - ## SILK Home
     + Governess
     + Childcare
+    + Gardening
     + Hospitality
     + Interior Design
     + Kitchen Design Services
