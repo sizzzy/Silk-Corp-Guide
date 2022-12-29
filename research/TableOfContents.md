@@ -8,10 +8,13 @@
 - ## SILK Goals 
 - ## SILK Values
 
+# BRIEF HISTORY
+- ## SILK Road
+- ## SILK Women
+
 # SILK Life
 - ## (Overview of SILK Life)
-- ## SILK Road
-- ## SILK Women 
+  + (Competitive Advantages)
 
 # SILK Y.A.C.H.T
 - ## SILK Yoga
@@ -71,6 +74,11 @@
 - ## Working Hours
 - ## Vacation Policy
  
+
+# COMPETITION ANALYSIS
+- ## (Competition Analysis Table)
+- ## Competitive Advantages
+
 
 # Industry & Market Analysis
 - ## Industry Analysis
