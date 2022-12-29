@@ -1,6 +1,6 @@
 # OVERVIEW
 - ## SILK Franchise Program
-- ## Location
+- ## MOV Region
 - ## Summary of Investment
 
 # WHO WE ARE
@@ -58,8 +58,8 @@
   + Community Events
 
 # SILK TEAM
+- ## Professional Experience
 - ## Key Management 
-- ## OktoPod
 - ## Personnel Plan
 
 
@@ -71,11 +71,10 @@
 - ## Working Hours
 - ## Vacation Policy
  
-# SILK Location
-- ## Tao Cottages
-- ## Mt. Cottages
 
 # Industry & Market Analysis
+- ## Industry Analysis
+- ## Market Analysis
 
 # Financials
 - ## Break-even Analysis
