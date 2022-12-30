@@ -66,13 +66,12 @@
 - ## Marketing Program
 - ## 20 Years of Service
 
-# COMPETITION ANALYSIS
-- ## Competition Analysis Table
-- ## Competitive Advantages
-
-# INDUSTRY & MARKET ANALYSIS
-- ## Industry Analysis
-- ## Market Analysis
+# ANALYSIS
+- ## Competition
+  + Competition Analysis Table
+  + Competitive Advantages
+- ## Industry
+- ## Market
 
 # LOCATIONS
 - ## Mid-Ohio Valley
