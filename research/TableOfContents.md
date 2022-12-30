@@ -73,10 +73,6 @@
 - ## Industry
 - ## Market
 
-# INDUSTRY & MARKET ANALYSIS
-- ## Industry Analysis
-- ## Market Analysis
-
 # LOCATIONS
 - ## Mid-Ohio Valley
 - ## Costa Rica
