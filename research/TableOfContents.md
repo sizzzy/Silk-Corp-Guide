@@ -98,8 +98,8 @@
 - ## Balance Sheet
 
 # ABOUT THE FRANCHISEE
-- ## FRANCHISEE SILK HISTORY
-- ## FRANCHISEE CAPABILITIES STATEMENT
-- ## PROFESSIONAL EXPERIENCE
+- ## Franchisee SILK History
+- ## Franchisee Capabilities Statement
+- ## Professional Experience
  
 # CONCLUSION
