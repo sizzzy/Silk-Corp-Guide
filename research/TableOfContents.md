@@ -60,7 +60,7 @@
   + Translation
   + Skills
 
-# SILK COMPETITIVE ADVANTAGES
+# SILK ADVANTAGES
 - ## State of the Art Websites
 - ## Outreach Program
 - ## Marketing Program
