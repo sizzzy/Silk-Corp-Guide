@@ -66,9 +66,12 @@
 - ## Marketing Program
 - ## 20 Years of Service
 
-# COMPETITION ANALYSIS
-- ## Competition Analysis Table
-- ## Competitive Advantages
+# ANALYSIS
+- ## Competition
+  + Competition Analysis Table
+  + Competitive Advantages
+- ## Industry
+- ## Market
 
 # INDUSTRY & MARKET ANALYSIS
 - ## Industry Analysis
