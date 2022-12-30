@@ -77,10 +77,12 @@
 - ## Mid-Ohio Valley
 - ## Costa Rica
 - ## Pakistan
+- ## HubZone
 
 # SILK TEAM
 - ## Key Management 
 - ## Personnel Plan
+  + Temporary Workers
 
 # STARTING A FRANCHISE
 - ## Overview
