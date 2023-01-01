@@ -60,7 +60,7 @@
   + Translation
   + Skills
 
-# SILK COMPETITIVE ADVANTAGES
+# SILK ADVANTAGES
 - ## State of the Art Websites
 - ## Outreach Program
 - ## Marketing Program
@@ -77,10 +77,12 @@
 - ## Mid-Ohio Valley
 - ## Costa Rica
 - ## Pakistan
+- ## HubZone
 
 # SILK TEAM
 - ## Key Management 
 - ## Personnel Plan
+  + Temporary Workers
 
 # STARTING A FRANCHISE
 - ## Overview
@@ -96,8 +98,8 @@
 - ## Balance Sheet
 
 # ABOUT THE FRANCHISEE
-- ## FRANCHISEE SILK HISTORY
-- ## FRANCHISEE CAPABILITIES STATEMENT
-- ## PROFESSIONAL EXPERIENCE
+- ## Franchisee SILK History
+- ## Franchisee Capabilities Statement
+- ## Professional Experience
  
 # CONCLUSION
