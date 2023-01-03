@@ -25,4 +25,9 @@ Overall, the Belt and Road Initiative is a modern-day initiative that seeks to b
 ### Summary
 <p>
 We are revitalizing the SILK Road. We bring up-to-date digital technology, innovation, and networking of people from all over the world, MENAP, APAC, and the Americas, in this New SILK Road concept. We bring work with focused values to locals which aims to boost the economic development worldwide.
+
+
+Women and children working together to earn a living through selling handmade crafts at local markets 
+
+They have played a variety of roles in the trade, including as traders, artisans, and laborers. Some women may have owned and operated their own businesses, while others may have worked for other traders or merchants. Children may have worked alongside their parents or may have been hired out to work for others. 
 </p>
