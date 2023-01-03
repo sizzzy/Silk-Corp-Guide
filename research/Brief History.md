@@ -30,4 +30,20 @@ We are revitalizing the SILK Road. We bring up-to-date digital technology, innov
 Women and children working together to earn a living through selling handmade crafts at local markets 
 
 They have played a variety of roles in the trade, including as traders, artisans, and laborers. Some women may have owned and operated their own businesses, while others may have worked for other traders or merchants. Children may have worked alongside their parents or may have been hired out to work for others. 
+
+We balance the amount of time we spend on work-related tasks and responsibilities with the amount of time we have available for personal pursuits, such as hobbies, exercise, and spending time with loved ones.
+
+
+Three main areas of professionalism
+
+Ethical behavior: We uphold ethical standards and behave in a manner that is honest, transparent, and fair. This includes avoiding conflicts of interest, respecting confidentiality, and treating others with respect and dignity.
+
+Strong work ethic: Professionalism also involves demonstrating a strong work ethic, including being reliable, punctual, and consistently meeting deadlines and commitments.
+
+Presentation: We present ourselves through proper grooming and attire, good communication, and problem-solving skills. It also involves staying up-to-date on industry trends and best practices, and continuously seeking opportunities to learn and grow in your profession.
+
+Appearance and demeanor: Professionalism involves presenting oneself in a professional manner, which includes proper grooming and attire, as well as maintaining a positive and respectful attitude towards others.
+
+Communication and interaction: We effectively communicate and interact with colleagues, clients, and other stakeholders. We are clear and concise in verbal and written communication, as well as showing respect and consideration for others.
+
 </p>
