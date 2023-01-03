@@ -47,3 +47,4 @@ Appearance and demeanor: Professionalism involves presenting oneself in a profes
 Communication and interaction: We effectively communicate and interact with colleagues, clients, and other stakeholders. We are clear and concise in verbal and written communication, as well as showing respect and consideration for others.
 
 </p>
+<a href="https://chat.openai.com/chat">chat.openai.com</a>
