@@ -3,9 +3,9 @@ This is a Guide for SILK Corp, a Social Enterprise headquartered in USA with a m
 
 ### What is S.I.L.K.?
 * **S - Strength**: the body and the mind is a motivation to move forward and do better in life. 
-* **I - Intelligence**: is power and sharing this power around can support intellectual growth. 
+* **I - Integrity**: demonstrated through honesty, fairness, and consistency in actions and principles. 
 * **L - Love**: Everything flows in harmony with the existence of love and devotion. 
-* **K - Kindness**: makes the community a very inviting space. 
+* **K - Knowledge**: is power and sharing this power around can support intellectual growth.
 
 Altogether, our S.I.L.K view strives to make the community and individuals the best version of themselves each day.
 
