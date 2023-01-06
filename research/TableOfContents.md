@@ -13,12 +13,12 @@
 - ## S - Strength
     + Health
     + Mental Strength
-- ## I - Intelligence
+- ## I - Integrity
     + Cognitive Ability
     + Logic
     + Discern Right & Wrong
 - ## L - Love
-- ## K - Kindness
+- ## K - Knowledge
     + Giving
     + Sharing
     + Volunteering
