@@ -8,12 +8,19 @@ To check our guide, refer to this website here, https://guide.silkcorp.org/
 Everytime your pull requests are merged, it shows in this website.
 
 To contribute in writing this guide, see the following websites,
+
 [Silkyoga.org](https://silkyoga.org/)
+
 [Silklife.org](http://silklife.org/)
+
 [Silkcorp.org](https://silkcorp.org/)
+
 [Silkcafe.org](https://silkcafe.org/)
+
 [Silkhomes.org](https://silkhomes.org/)
+
 [Silkarts.org](https://silkarts.org/)
+
 [Silkwomen.org](https://silkwomen.org/)
 
 If you have access to our OneNote then check this [link](https://focushive.sharepoint.com/:o:/r/sites/DreamHive/msnfp_deliveryframework/SILK%20Corp_E5D4921FED4C4052AE6197B5694CCCCF/SILK%20Corp?d=w72eb6336a5854ef0ac4208cc1996fe20&csf=1&web=1&e=NZTG0L).
