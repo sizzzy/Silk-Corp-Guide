@@ -37,7 +37,7 @@ All Research markdown files are found [here](https://github.com/NoteHive/Silk-Co
 ## **Contribution Guide**
 A general overview of how to contribute is found in https://github.com/NoteHive/Silk-Corp-Guide .
 
-Everytime your pull requests are merged, it shows in the website https://guide.silkcorp.org/.
+Everytime your pull requests when working directly on the .html file are merged, it shows in the website https://guide.silkcorp.org/.
 
 If you're not comfortable working directly on the .html side of this Guide, then let's work together through the [research markdown](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages/research) files. Keep in mind in doing the following,
 
@@ -46,6 +46,7 @@ If you're not comfortable working directly on the .html side of this Guide, then
 2. Create your markdown files in the [research folder](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages/research).
 3. Attach your markdown file to the issue you're working on by commenting.
    - This will help the Admins or others check out your markdown files.
+4. Ask Marisa or Zee if you're a part of our SILK Corp Teams Chat.
 
 <hr>
 
