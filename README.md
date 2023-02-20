@@ -28,16 +28,19 @@ To contribute in writing this guide, see the following websites,
 
 <hr>
 
+## **Research Notes**
+
+All Research markdown files are found [here](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages/research). We use markdown files to save our research on topics found in the [Table of Contents](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/TableOfContents.md). If you have access to our OneNote then check this [link](https://focushive.sharepoint.com/:o:/r/sites/DreamHive/msnfp_deliveryframework/SILK%20Corp_E5D4921FED4C4052AE6197B5694CCCCF/SILK%20Corp?d=w72eb6336a5854ef0ac4208cc1996fe20&csf=1&web=1&e=NZTG0L) too.
+
+<hr>
+
 ## **Contribution Guide**
 A general overview of how to contribute is found in https://github.com/NoteHive/Silk-Corp-Guide .
 
 Everytime your pull requests are merged, it shows in the website https://guide.silkcorp.org/.
 
-<hr>
+If you're not comfortable working directly on the .html side of this Guide, then let's work together through the [research markdown](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages/research) files. Keep in mind the following,
 
-## **Research Notes**
-
-All Research markdown files are found [here](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages/research). We use markdown files to save our research on topics found in the [Table of Contents](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/TableOfContents.md). If you have access to our OneNote then check this [link](https://focushive.sharepoint.com/:o:/r/sites/DreamHive/msnfp_deliveryframework/SILK%20Corp_E5D4921FED4C4052AE6197B5694CCCCF/SILK%20Corp?d=w72eb6336a5854ef0ac4208cc1996fe20&csf=1&web=1&e=NZTG0L) too.
 
 <hr>
 
