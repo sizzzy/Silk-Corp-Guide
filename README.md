@@ -43,10 +43,11 @@ If you're not comfortable working directly on the .html side of this Guide, then
 
 1. Check the [Issues](https://github.com/NoteHive/Silk-Corp-Guide/issues) or [Milestones](https://github.com/NoteHive/Silk-Corp-Guide/milestones).
    - Most issues are found in this area. Comment on the issue if you are working on it. 
-2. Create your markdown files in the [research folder](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages/research).
-3. Attach your markdown file to the issue you're working on by commenting.
+2. Follow the same number of character count used in the template guide.
+3. Create your markdown files in the [research folder](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages/research).
+4. Attach your markdown file to the issue you're working on by commenting.
    - This will help the Admins or others check out your markdown files.
-4. Ask Marisa or Zee if you're a part of our SILK Corp Teams Chat.
+5. Ask Marisa or Zee if you're a part of our SILK Corp Teams Chat.
 
 <hr>
 
