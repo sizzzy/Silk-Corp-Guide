@@ -39,8 +39,9 @@ A general overview of how to contribute is found in https://github.com/NoteHive/
 
 Everytime your pull requests are merged, it shows in the website https://guide.silkcorp.org/.
 
-If you're not comfortable working directly on the .html side of this Guide, then let's work together through the [research markdown](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages/research) files. Keep in mind the following,
+If you're not comfortable working directly on the .html side of this Guide, then let's work together through the [research markdown](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages/research) files. Keep in mind in doing the following,
 
+1. Check the [Issues](https://github.com/NoteHive/Silk-Corp-Guide/issues) or [Milestones](https://github.com/NoteHive/Silk-Corp-Guide/milestones).
 
 <hr>
 
