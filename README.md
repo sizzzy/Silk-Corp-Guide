@@ -26,5 +26,3 @@ To contribute in writing this guide, see the following websites,
 If you have access to our OneNote then check this [link](https://focushive.sharepoint.com/:o:/r/sites/DreamHive/msnfp_deliveryframework/SILK%20Corp_E5D4921FED4C4052AE6197B5694CCCCF/SILK%20Corp?d=w72eb6336a5854ef0ac4208cc1996fe20&csf=1&web=1&e=NZTG0L).
 
 Also, our [SILK Life TV](https://www.youtube.com/@silklifetv/playlists) Playlist will give you a perspective of our SILK Lifestyle.
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/@silklifetv/playlists)
