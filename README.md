@@ -4,8 +4,7 @@ Hello! Welcome to our SILK Corp Guide.
 
 SILK Corp's mission is to provide a peaceful community for people while empowering their mental, physical and emotional well-being. We welcome everyone from every culture, race, age, gender, and religion and is focused on women and children, where they learn, earn, and contribute back to the society. Its inspiration is driven from the essences of the Strength, Integrity, Love, and Knowledge of people.
 
-To check our guide, refer to this website here, https://guide.silkcorp.org/
-Everytime your pull requests are merged, it shows in this website.
+To check our guide, refer to this website here, https://guide.silkcorp.org/ .
 
 <hr>
 
@@ -26,6 +25,13 @@ To contribute in writing this guide, see the following websites,
 [Silkarts.org](https://silkarts.org/)
 
 [Silkwomen.org](https://silkwomen.org/)
+
+<hr>
+
+## **Contribution Guide**
+A general overview of how to contribute is found in https://github.com/NoteHive/Silk-Corp-Guide .
+
+Everytime your pull requests are merged, it shows in the website https://guide.silkcorp.org/.
 
 <hr>
 
