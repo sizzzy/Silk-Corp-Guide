@@ -42,6 +42,10 @@ Everytime your pull requests are merged, it shows in the website https://guide.s
 If you're not comfortable working directly on the .html side of this Guide, then let's work together through the [research markdown](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages/research) files. Keep in mind in doing the following,
 
 1. Check the [Issues](https://github.com/NoteHive/Silk-Corp-Guide/issues) or [Milestones](https://github.com/NoteHive/Silk-Corp-Guide/milestones).
+   - Most issues are found in this area. Comment on the issue if you are working on it. 
+2. Create your markdown files in the [research folder](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages/research).
+3. Attach your markdown file to the issue you're working on by commenting.
+   - This will help the Admins or others check out your markdown files.
 
 <hr>
 
