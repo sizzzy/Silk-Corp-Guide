@@ -24,14 +24,14 @@ gantt
     dateFormat  YYYY-MM-DD
 
     section TOC
-    Complete Table of Contents    :a1, 2022-12-28, 3d
-    Edit TOC in the Guide          :3d
+    Complete Table of Contents    :a1, 2022-12-28, 5d
+    Edit TOC in the Guide          :14d
 
     section Content Creation
-    Overview      :2023-01-03, 5d
-    Our Culture    : 5d
-    SILK Life      : 5d
-    SILK Y.A.C.H.T. : 10d
+    Overview      :2023-01-16, 14d
+    Our Culture    : 14d
+    SILK Life      : 14d
+    SILK Y.A.C.H.T. :2023-02-27, 21d
     
 ```
 ```mermaid
@@ -39,9 +39,9 @@ gantt
     dateFormat  YYYY-MM-DD
 
     section Content Creation
-    SILK Advantages    :2023-01-24, 14d
-    Competition Analysis  :2023-02-06, 5d
-    Industry Analysis     :5d
-    Market Analysis       :5d
+    SILK Advantages    :2023-03-19, 21d
+    Competition Analysis  :7d
+    Industry Analysis     :7d
+    Market Analysis       :7d
     
 ```
