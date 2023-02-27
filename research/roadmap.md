@@ -34,6 +34,7 @@ gantt
     SILK Y.A.C.H.T. :2023-02-27, 21d
     
 ```
+
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
@@ -43,6 +44,18 @@ gantt
     Competition Analysis  :7d
     Industry Analysis     :7d
     Market Analysis       :7d
-    Locations       :7d
+    Locations       :7d    
+```
+
+```mermaid
+gantt
+    dateFormat  YYYY-MM-DD
+
+    section Content Creation
+    SILK Team    :2023-05-07, 7d
+    Starting a Franchise  :21d
+    Financials     :7d
+    About the Franchisee       :14d
+    Conclusion       :7d
     
 ```
