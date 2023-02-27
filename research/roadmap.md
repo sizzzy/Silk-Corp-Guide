@@ -29,8 +29,19 @@ gantt
 
     section Content Creation
     Overview      :2023-01-03, 5d
-    Our Culture    : 3d
-    SILK Life      : 6d
+    Our Culture    : 5d
+    SILK Life      : 5d
     SILK Y.A.C.H.T. : 10d
+    
+```
+```mermaid
+gantt
+    dateFormat  YYYY-MM-DD
+
+    section Content Creation
+    SILK Advantages    :2023-01-24, 14d
+    Competition Analysis  :2023-02-06, 5d
+    Industry Analysis     :5d
+    Market Analysis       :5d
     
 ```
