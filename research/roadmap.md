@@ -28,6 +28,9 @@ gantt
     Edit TOC in the Guide          :3d
 
     section Content Creation
-    Overview      :2023-01-03, 1d
-    Our Culture      : 1d
+    Overview      :2023-01-03, 5d
+    Our Culture    : 3d
+    SILK Life      : 6d
+    SILK Y.A.C.H.T. : 10d
+    
 ```
