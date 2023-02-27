@@ -43,5 +43,6 @@ gantt
     Competition Analysis  :7d
     Industry Analysis     :7d
     Market Analysis       :7d
+    Locations       :7d
     
 ```
