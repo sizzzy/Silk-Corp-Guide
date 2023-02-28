@@ -69,31 +69,17 @@ gantt
 
 ## :construction_worker: Assist
 
-To assist in this project refer to the research/meetings/first_notes.md file. It has the initial meeting notes in bulleted list form.
+To assist in this project refer to the research/meetings/first_notes.md file. It has the initial meeting notes in bulleted list form. The tasks here can be made into smaller issues to help in steering the project.
 
 To summarize, the initial task was to design the Table of Contents. After it's established, work on the content on the list in the Table of Contents. The narrative for the franchise model will talk about all SILK Values in the YACHT, including SILK in Yoga, SILK in Arts, and SILK for Cafe, Home, and Tech. The franchise model will also include the history of the Silk Road, but it will be revitalized by bringing in tech, innovation, and remote/digital trade. The digital Silk Road can be wherever in the world, and it can bring work to locals through the digital Silk Road. The franchise model will also include statistics about women working in "Halal" or biblical work.
 
+In the narrative it should mention that women can run real estates or culinary arts, and the franchisee should exhibit SILK values in their professional experience. The franchise model's SERVICES should also include children in the narrative, and temporary workers will be hired to cater to all the services offered by the franchise. The SILK team/franchisee will handle and find all these local consultants, and the client only pays SILK.
 
+It should include 10-15% of the pay goes back to the franchisee, and the rest goes back to the services in the area where the SILK Franchise is located. SILK cannot provide the whole house to a single family unit because SILK will lose the ability to control in providing the YACHT services. The narrative should also include people from big cities like New York who want to work remotely in a quiet peaceful place. SILK provides the SMART houses and the concierge services, and the money goes to these HubZones like Ravenswood City, providing jobs for local consultants.
 
+As a franchisee, you can have your own tech team in a single house aside from BnB clients, and you can bring in money to the city too through their rent and by giving services to these team members the same services you give to BnB guests. This is a small business and not for a franchisee that wants to scale big. As a franchisee, it helps balance life needs, and the franchisee can focus on either the tech or hospitality business.
 
-
-- [ ] In the Scholarship, to open a franchise, women run real estates or culinary arts etc., in the  SILK Department.
-- [ ] In the Professional Experience, the franchisee should exhibit SILK values
-- [ ] In the SERVICES, include children in the narrative.
-
-Other notes that would assist in the writing of the narrative:
-
-- [ ] Each women brings different trades because of different culture and upbringing, and they network with each other to see what trade the other has to help her with her projects
-- [ ] Note what SILK is; woven from smaller fibers, a strong fiber, mission to empower women to help their husbands and the society she is living in through the  SILK Life (Values) and SILK YACHT (Services)
-- [ ] The narrative should include a story on how we hire temporary workers to cater to all the services we are offering. It's because it depends on the Clientele's needs and what concierge service they want. It can be a yoga session, dance session, massage, food, tour guides and for getaway activities, landscaper, roofer, plumber etc. The SILK Team/Franchisee will handle and find all these local consultants and the client only pays SILK. 
-- [ ] 10-15% of the pay goes back to the franchisee and the rest goes back to the services in the area where the SILK Franchise is located.
-- [ ] We can't provide the whole house to a single family unit because SILK will lose the ability to control in providing the YACHT services.
-- [ ] The narrative should include people from big cities like New York for example wanting to work remotely in a quiet peaceful place. We become a destination for them. And SILK provides the SMART houses and the concierge services (fast internet, updated electrical outlets, BnB Services, SMART Devices, Kayaking and other amenities, for example). The money goes to these HubZones like Ravenswood City for example, instead of big cities like New York City. This open up jobs to local consultants in the city. 
-- [ ] Also as the franchisee, you have your own tech team in a single house instead/aside from BnB clients then you are bringing in money to the city too through their rent and by giving services to these team members the same services you give to BnB guests.
-- [ ] This is a small business and not for a franchisee that wants to scale big.
-- [ ] As a franchisee it helps balance life needs for example, if the franchisee only wants to get a 6-month tech contract and then rest after that period and focus on the hospitality business, then at least there's still a flow of money. Then the franchisee can go back to do the tech jobs after focusing on just hospitality business. 
-- [ ] These tech jobs can pay for the rent and the services and goes in tandem with the hospitality business.
-- [ ] A franchisee's profile is written in the About the Franchisee area. Make it a general concept so that it's easier to edit for each franchisee.
 
 ## :chart_with_upwards_trend: Reach
-The reach of the SILK Franchise Model is for E-2 or L-1 Visa holders that upholds the SILK values.
+
+The SILK Franchise Model's reach is for E-2 or L-1 Visa holders who uphold the SILK values. The franchise model is designed for women who bring different trades due to their culture and upbringing, and they can network with each other to help each other with their projects. The SILK Franchise Model's mission is to empower women to help their husbands and the society they are living in through the SILK Life (Values) and SILK YACHT (Services).
