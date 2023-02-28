@@ -1,4 +1,4 @@
-This will serve as a General S.T.A.R. for the SILK Corp Franchise 
+This will serve as a General S.T.A.R. for the SILK Corp Franchise Model. Smaller tasks or issues can be created out of this general STAR to reach our end goal which is to have a franchise model to be submitted to the US Government.
 
 ## Space
 The SILK Franchise Model aims to create a website that will help franchisees learn how to run a SILK Company. The website will contain a cleaned-up and migrated franchise model that can be forked by any client, and then the client can add an area for their credentials. This website will be printed out and used for immigration purposes. Development of the website is ongoing, and anyone can contribute by checking the [ReadMe file](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages) to see how to contribute.
@@ -6,7 +6,7 @@ The SILK Franchise Model aims to create a website that will help franchisees lea
 The [Table of Contents (TOC)](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/TableOfContents.md) for the franchise model has already been established on the website. The TOC can be used in a document, and it can be edited and printed for a franchisee. The Business Plan Models from [Joorney](https://www.joorney.com/#pre-samples) or SILK Corp OneNote Notebook can also help in creating the Table of Contents. Before implementation, it should be approved by an executive.
 
 ## Track
-This Track file serves as a roadmap to help in the creation of the SILK Corp Franchise Guide.
+This Track file serves as a roadmap to help in the creation of the SILK Corp Franchise Guide. There's still a question as to use a .docx or the website to get printed.
 
 ```mermaid
 flowchart TD
