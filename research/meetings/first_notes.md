@@ -1,89 +1,27 @@
-This will serve as a General S.T.A.R. for the SILK Corp Franchise Model. Smaller tasks or issues can be created out of this general STAR to reach our end goal which is to have a franchise model to be submitted to the US Government.
+We need to create a Franchise model for SILK Corp. This will help franchisees how to run a SILK Company. There had been research done for this model already however it needs cleaned-up and migrated on a website. For this model to work for any client, the client just needs to fork the model and add an area (maybe at the bottom?) for their credentials. This website will be printed out and will be used for immigration purposes.
 
-## :cyclone: Space
-The SILK Franchise Model aims to create a website that will help franchisees learn how to run a SILK Company. The website will contain a cleaned-up and migrated franchise model that can be forked by any client, and then the client can add an area for their credentials. This website will be printed out and used for immigration purposes. Development of the website is ongoing, and anyone can contribute by checking the [ReadMe file](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages) to see how to contribute.
+Development of the website is on-going and you can check this [ReadMe file](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages) to see how to contribute.
 
-The [Table of Contents (TOC)](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/TableOfContents.md) for the franchise model has already been established on the website. The TOC can be used in a document, and it can be edited and printed for a franchisee. The Business Plan Models from [Joorney](https://www.joorney.com/#pre-samples) or SILK Corp OneNote Notebook can also help in creating the Table of Contents. Before implementation, it should be approved by an executive.
 
-## :bridge_at_night: Track
-This Track file serves as a roadmap to help in the creation of the SILK Corp Franchise Guide. There's still a question as to use a .docx or the website to get printed.
+The [Table of Contents (TOC)](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/TableOfContents.md) is established in the website. Some areas of this TOC can be used in a document. But can we use the https://guide.silkcorp.org/ and just edit it and print it for a franchisee? Or prepare a word document file? One can use the Business Plan Models from [Joorney](https://www.joorney.com/#pre-samples) to help in creating the Table of Contents or from SILK Corp OneNote Notebook.
 
-```mermaid
-flowchart TD
-    A[SILK Corp] -->B[Table of Contents]
-    B -->C{Website or .docx?}
-    C -->|In-Progress| D[Website]
-    D -->E[ https://guide.silkcorp.org/ ]
-    C -->|Not Started| F[.docx]
-    E --> G[GitHub]
-    G --> H[ https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages ]
-```
-
----
-
-### Timeline of Tasks :alarm_clock:
-
-This Gantt Chart shows how the tasks are completed for a SILK Corp Business Plan in the Website.
-
-```mermaid
-gantt
-    title SILK Corp Franchise Model
-    dateFormat  YYYY-MM-DD
-
-    section TOC
-    Complete Table of Contents    :a1, 2022-12-28, 5d
-    Edit TOC in the Guide          :14d
-
-    section Content Creation
-    Overview      :2023-01-16, 14d
-    Our Culture    : 14d
-    SILK Life      : 14d
-    SILK Y.A.C.H.T. :2023-02-27, 21d
-    
-```
-
-```mermaid
-gantt
-    dateFormat  YYYY-MM-DD
-
-    section Content Creation
-    SILK Advantages    :2023-03-19, 21d
-    Competition Analysis  :7d
-    Industry Analysis     :7d
-    Market Analysis       :7d
-    Locations       :7d    
-```
-
-```mermaid
-gantt
-    dateFormat  YYYY-MM-DD
-
-    section Content Creation
-    SILK Team    :2023-05-07, 7d
-    Starting a Franchise  :21d
-    Financials     :7d
-    About the Franchisee       :14d
-    Conclusion       :7d
-    
-```
-
-## :construction_worker: Assist
+### The following should be included in the website:
 - [x] Check out the OneNote Notebook for SILK Corp to see the existing Table of Contents
 - [x] Research on Joorney Sites for helpful contents
 - [x] Create Table of Contents and find any research in the "research" folder in the gh-pages branch.
 - [x] Have it approved by an executive.
 - [x] Change I to Integrity
 - [x] Change K to Knowledge
-- [ ] In the Narrative, talk about all SILK Values in the YACHT. For example, talk about the SILK in Yoga, SILK in arts and for Cafe, for Home, and for Tech.
+- [ ] In the Narrative, talk about all SILK Values in the YACHT. like talk about the SILK in Yoga, SILK in arts and for Cafe, Home, and Tech
 - [ ] Research what goes to the YACHT (Services) and the SILK Life (values) if it's empty.
 - [x] Mission is general SILK Life, then there's SILK Women but include how children or toddlers can help or live the SILK Life with their family.
 - [ ] Include the history of  SILK Road but revitalize the concept by bringing tech, innovation, remote/digital trade in that road; digital SILK Road can be wherever in the world. Bring work tko locals through the digital SILK Road; Check that UN or China plans in revitalizing the road
 - [ ] Add statistics in services about women to work in "Halal" or biblical work
-- [ ] In the Scholarship, to open a franchise, women run real estates or culinary arts etc., in the  SILK Department.
+- [ ] In the Scholarship, to open a franchise, women run real estates or culinary arts etch, in the  SILK Department.
 - [ ] In the Professional Experience, the franchisee should exhibit SILK values
-- [ ] In the SERVICES, include children in the narrative.
+- [ ] In the SERVICES, include children too in the narrative.
 
-Other notes that would assist in the writing of the narrative:
+Other Notes:
 
 - [ ] Each women brings different trades because of different culture and upbringing, and they network with each other to see what trade the other has to help her with her projects
 - [ ] Note what SILK is; woven from smaller fibers, a strong fiber, mission to empower women to help their husbands and the society she is living in through the  SILK Life (Values) and SILK YACHT (Services)
@@ -97,5 +35,4 @@ Other notes that would assist in the writing of the narrative:
 - [ ] These tech jobs can pay for the rent and the services and goes in tandem with the hospitality business.
 - [ ] A franchisee's profile is written in the About the Franchisee area. Make it a general concept so that it's easier to edit for each franchisee.
 
-## :chart_with_upwards_trend: Reach
 The reach of the SILK Franchise Model is for E-2 or L-1 Visa holders that upholds the SILK values.
