@@ -1,11 +1,11 @@
 This will serve as a General S.T.A.R. for the SILK Corp Franchise Model. Smaller tasks or issues can be created out of this general STAR to reach our end goal which is to have a franchise model to be submitted to the US Government.
 
-## Space
+## :cyclone: Space
 The SILK Franchise Model aims to create a website that will help franchisees learn how to run a SILK Company. The website will contain a cleaned-up and migrated franchise model that can be forked by any client, and then the client can add an area for their credentials. This website will be printed out and used for immigration purposes. Development of the website is ongoing, and anyone can contribute by checking the [ReadMe file](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages) to see how to contribute.
 
 The [Table of Contents (TOC)](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/TableOfContents.md) for the franchise model has already been established on the website. The TOC can be used in a document, and it can be edited and printed for a franchisee. The Business Plan Models from [Joorney](https://www.joorney.com/#pre-samples) or SILK Corp OneNote Notebook can also help in creating the Table of Contents. Before implementation, it should be approved by an executive.
 
-## Track
+## :bridge_at_night: Track
 This Track file serves as a roadmap to help in the creation of the SILK Corp Franchise Guide. There's still a question as to use a .docx or the website to get printed.
 
 ```mermaid
@@ -21,7 +21,7 @@ flowchart TD
 
 ---
 
-### Timeline of Tasks
+### Timeline of Tasks :alarm_clock:
 
 This Gantt Chart shows how the tasks are completed for a SILK Corp Business Plan in the Website.
 
@@ -67,7 +67,7 @@ gantt
     
 ```
 
-## Assist
+## :construction_worker: Assist
 - [x] Check out the OneNote Notebook for SILK Corp to see the existing Table of Contents
 - [x] Research on Joorney Sites for helpful contents
 - [x] Create Table of Contents and find any research in the "research" folder in the gh-pages branch.
@@ -97,5 +97,5 @@ Other notes that would assist in the writing of the narrative:
 - [ ] These tech jobs can pay for the rent and the services and goes in tandem with the hospitality business.
 - [ ] A franchisee's profile is written in the About the Franchisee area. Make it a general concept so that it's easier to edit for each franchisee.
 
-## Reach
+## :chart_with_upwards_trend: Reach
 The reach of the SILK Franchise Model is for E-2 or L-1 Visa holders that upholds the SILK values.
