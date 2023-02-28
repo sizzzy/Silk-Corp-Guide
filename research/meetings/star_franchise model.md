@@ -82,4 +82,4 @@ The Narrative should also include that as a franchisee, you can have your own te
 
 ## :chart_with_upwards_trend: Reach
 
-The SILK Franchise Model's reach is for E-2 or L-1 Visa holders who uphold the SILK values. The franchise model is designed for women who bring different trades due to their culture and upbringing, and they can network with each other to help each other with their projects. The SILK Franchise Model's mission is to empower women to help their husbands and the society they are living in through the SILK Life (Values) and SILK YACHT (Services).
+The SILK Franchise Model's reach is for E-2 or L-1 Visa holders who uphold the SILK values. The franchise model is heavily focused on women who bring different trades due to their culture and upbringing, and they can network with each other to help each other with their projects. The SILK Franchise Model's mission is to empower women to help their husbands and the society they are living in through the SILK Life (Values) and SILK YACHT (Services). 
