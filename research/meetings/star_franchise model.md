@@ -68,17 +68,15 @@ gantt
 ```
 
 ## :construction_worker: Assist
-- [x] Check out the OneNote Notebook for SILK Corp to see the existing Table of Contents
-- [x] Research on Joorney Sites for helpful contents
-- [x] Create Table of Contents and find any research in the "research" folder in the gh-pages branch.
-- [x] Have it approved by an executive.
-- [x] Change I to Integrity
-- [x] Change K to Knowledge
-- [ ] In the Narrative, talk about all SILK Values in the YACHT. For example, talk about the SILK in Yoga, SILK in arts and for Cafe, for Home, and for Tech.
-- [ ] Research what goes to the YACHT (Services) and the SILK Life (values) if it's empty.
-- [x] Mission is general SILK Life, then there's SILK Women but include how children or toddlers can help or live the SILK Life with their family.
-- [ ] Include the history of  SILK Road but revitalize the concept by bringing tech, innovation, remote/digital trade in that road; digital SILK Road can be wherever in the world. Bring work tko locals through the digital SILK Road; Check that UN or China plans in revitalizing the road
-- [ ] Add statistics in services about women to work in "Halal" or biblical work
+
+To assist in this project refer to the research/meetings/first_notes.md file. It has the initial meeting notes in bulleted list form.
+
+To summarize, the initial task was to design the Table of Contents. After it's established, work on the content on the list in the Table of Contents. The narrative for the franchise model will talk about all SILK Values in the YACHT, including SILK in Yoga, SILK in Arts, and SILK for Cafe, Home, and Tech. The franchise model will also include the history of the Silk Road, but it will be revitalized by bringing in tech, innovation, and remote/digital trade. The digital Silk Road can be wherever in the world, and it can bring work to locals through the digital Silk Road. The franchise model will also include statistics about women working in "Halal" or biblical work.
+
+
+
+
+
 - [ ] In the Scholarship, to open a franchise, women run real estates or culinary arts etc., in the  SILK Department.
 - [ ] In the Professional Experience, the franchisee should exhibit SILK values
 - [ ] In the SERVICES, include children in the narrative.
