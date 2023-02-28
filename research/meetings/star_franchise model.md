@@ -77,7 +77,7 @@ In the narrative it should mention that women can run real estates or culinary a
 
 It should include 10-15% of the pay goes back to the franchisee, and the rest goes back to the services in the area where the SILK Franchise is located. SILK cannot provide the whole house to a single family unit because SILK will lose the ability to control in providing the YACHT services. The narrative should also include people from big cities like New York who want to work remotely in a quiet peaceful place. SILK provides the SMART houses and the concierge services, and the money goes to these HubZones like Ravenswood City, providing jobs for local consultants.
 
-As a franchisee, you can have your own tech team in a single house aside from BnB clients, and you can bring in money to the city too through their rent and by giving services to these team members the same services you give to BnB guests. This is a small business and not for a franchisee that wants to scale big. As a franchisee, it helps balance life needs, and the franchisee can focus on either the tech or hospitality business.
+The Narrative should also include that as a franchisee, you can have your own tech team in a single house aside from BnB clients with the hospitality business, and you can bring in money to the city too through their rent and by giving services to these team members the same services you give to BnB guests. This is a small business and not for a franchisee that wants to scale big. As a franchisee, it helps balance life needs, and the franchisee can focus on either the tech or hospitality business.
 
 
 ## :chart_with_upwards_trend: Reach
