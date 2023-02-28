@@ -1,10 +1,12 @@
-# Space
+This will serve as a General S.T.A.R. for the SILK Corp Franchise 
+
+## Space
 The SILK Franchise Model aims to create a website that will help franchisees learn how to run a SILK Company. The website will contain a cleaned-up and migrated franchise model that can be forked by any client, and then the client can add an area for their credentials. This website will be printed out and used for immigration purposes. Development of the website is ongoing, and anyone can contribute by checking the [ReadMe file](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages) to see how to contribute.
 
 The [Table of Contents (TOC)](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/TableOfContents.md) for the franchise model has already been established on the website. The TOC can be used in a document, and it can be edited and printed for a franchisee. The Business Plan Models from [Joorney](https://www.joorney.com/#pre-samples) or SILK Corp OneNote Notebook can also help in creating the Table of Contents. Before implementation, it should be approved by an executive.
 
-# Track
-This markdown file serves as a roadmap to help in the creation of the SILK Corp Franchise Guide.
+## Track
+This Track file serves as a roadmap to help in the creation of the SILK Corp Franchise Guide.
 
 ```mermaid
 flowchart TD
@@ -19,7 +21,7 @@ flowchart TD
 
 ---
 
-## Gantt Chart
+### Timeline of Tasks
 
 This Gantt Chart shows how the tasks are completed for a SILK Corp Business Plan in the Website.
 
@@ -65,23 +67,23 @@ gantt
     
 ```
 
-# Assist
+## Assist
 - [x] Check out the OneNote Notebook for SILK Corp to see the existing Table of Contents
 - [x] Research on Joorney Sites for helpful contents
 - [x] Create Table of Contents and find any research in the "research" folder in the gh-pages branch.
 - [x] Have it approved by an executive.
 - [x] Change I to Integrity
 - [x] Change K to Knowledge
-- [ ] In the Narrative, talk about all SILK Values in the YACHT. like talk about the SILK in Yoga, SILK in arts and for Cafe, Home, and Tech
+- [ ] In the Narrative, talk about all SILK Values in the YACHT. For example, talk about the SILK in Yoga, SILK in arts and for Cafe, for Home, and for Tech.
 - [ ] Research what goes to the YACHT (Services) and the SILK Life (values) if it's empty.
 - [x] Mission is general SILK Life, then there's SILK Women but include how children or toddlers can help or live the SILK Life with their family.
 - [ ] Include the history of  SILK Road but revitalize the concept by bringing tech, innovation, remote/digital trade in that road; digital SILK Road can be wherever in the world. Bring work tko locals through the digital SILK Road; Check that UN or China plans in revitalizing the road
 - [ ] Add statistics in services about women to work in "Halal" or biblical work
-- [ ] In the Scholarship, to open a franchise, women run real estates or culinary arts etch, in the  SILK Department.
+- [ ] In the Scholarship, to open a franchise, women run real estates or culinary arts etc., in the  SILK Department.
 - [ ] In the Professional Experience, the franchisee should exhibit SILK values
-- [ ] In the SERVICES, include children too in the narrative.
+- [ ] In the SERVICES, include children in the narrative.
 
-Other Notes:
+Other notes that would assist in the writing of the narrative:
 
 - [ ] Each women brings different trades because of different culture and upbringing, and they network with each other to see what trade the other has to help her with her projects
 - [ ] Note what SILK is; woven from smaller fibers, a strong fiber, mission to empower women to help their husbands and the society she is living in through the  SILK Life (Values) and SILK YACHT (Services)
@@ -95,5 +97,5 @@ Other Notes:
 - [ ] These tech jobs can pay for the rent and the services and goes in tandem with the hospitality business.
 - [ ] A franchisee's profile is written in the About the Franchisee area. Make it a general concept so that it's easier to edit for each franchisee.
 
-# Reach
+## Reach
 The reach of the SILK Franchise Model is for E-2 or L-1 Visa holders that upholds the SILK values.
