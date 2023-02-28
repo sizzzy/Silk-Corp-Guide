@@ -69,7 +69,7 @@ gantt
 
 ## :construction_worker: Assist
 
-To assist in this project refer to the research/meetings/first_notes.md file. It has the initial meeting notes in bulleted list form. The tasks here can be made into smaller issues to help in steering the project.
+To assist in this project refer to the [first_notes.md](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/meetings/first_notes.md) file. It has the initial meeting notes in bulleted list form. The tasks here can be made into smaller issues to help in steering the project.
 
 To summarize, the initial task was to design the Table of Contents. After it's established, work on the content on the list in the Table of Contents. The narrative for the franchise model will talk about all SILK Values in the YACHT, including SILK in Yoga, SILK in Arts, and SILK for Cafe, Home, and Tech. The franchise model will also include the history of the Silk Road, but it will be revitalized by bringing in tech, innovation, and remote/digital trade. The digital Silk Road can be wherever in the world, and it can bring work to locals through the digital Silk Road. The franchise model will also include statistics about women working in "Halal" or biblical work.
 
