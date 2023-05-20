@@ -9,6 +9,12 @@ SILK Corp's mission is to provide a peaceful community for people while empoweri
 ### **[Watch SILK Life TV](https://www.youtube.com/@silklifetv/playlists)**
 Playlists and videos to get an idea of our SILK Lifestyle.
 
+Click the image below to play videos.
+
+[![Alt text](https://i.ytimg.com/vi/rHotxgKkAlw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB-KwNUdzub6ZMKfE4zPGyTvmGQ2w)](https://www.youtube.com/watch?v=rHotxgKkAlw&list=PLRokVXH5v4O0MJEyoBz8nXS1PP1O8mpn6&ab_channel=SelenaTrevino)
+
+
+
 <br>
 
 ### **SILK YACHT**
@@ -27,15 +33,7 @@ To contribute in writing this guide, see the following websites.
 
 <br>
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/2Gg6Seob5Mg"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+
 
 ### Main Links
 > [SILK Corp](https://silkcorp.org/) - Headquarters, Holding Company, Brand Management Corporation, and Franchise Opportunities
