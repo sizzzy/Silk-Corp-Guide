@@ -40,8 +40,24 @@ To contribute in writing this guide, see the following websites.
 * [Research in Markdown Format](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages/research)
 * [Table of Contents](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/TableOfContents.md)
 * [OneNote Research](https://focushive.sharepoint.com/:o:/r/sites/DreamHive/msnfp_deliveryframework/SILK%20Corp_E5D4921FED4C4052AE6197B5694CCCCF/SILK%20Corp?d=w72eb6336a5854ef0ac4208cc1996fe20&csf=1&web=1&e=NZTG0L)
+* [Hospitality Hive OneNote](https://focushive.sharepoint.com/sites/HospitalityHive/_layouts/OneNote.aspx?id=%2Fsites%2FHospitalityHive%2FSiteAssets%2FHospitality%20Hive%20Notebook)
 
 <br>
+
+### **Our Community Vision**
+* [Land Group](https://unitehome.org) - [GitHub](https://github.com/LandGroup)
+* [United Home](https://unitehome.org) - [GitHub](https://github.com/United-Home/Overview)
+* [Tao Villages](https://focushive.sharepoint.com/sites/DreamHive/_layouts/OneNote.aspx?id=%2Fsites%2FDreamHive%2Fmsnfp_deliveryframework%2FTao%20Villages_9127010F6A3648C1BFF5FD86A7795AAC%2FTao%20Villages)
+  * [Tao Cottage](https://taocottage.org)
+* [SILK Homes](https://silkhomes.org)
+
+<br>
+
+### **Immigation Consulting for Franchisees**
+We have chosen [USIVA](https://usiva.org) as our preferred Immigration Consulting Agency for foreigners seeking Franchise Opportunities.  We make investments with franchisee candidates who live the SILK Life and who are seeking business opportunities in USA.  A few Visa Options available for running a SILK Corp Franchise are as follows:
+* EB-5
+* EB-2
+* E-2
 
 ### **Contribution Guide**
 A general overview of how to contribute is found in https://github.com/NoteHive/Silk-Corp-Guide .
