@@ -27,6 +27,16 @@ To contribute in writing this guide, see the following websites.
 
 <br>
 
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/embed/2Gg6Seob5Mg"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
 ### Main Links
 > [SILK Corp](https://silkcorp.org/) - Headquarters, Holding Company, Brand Management Corporation, and Franchise Opportunities
 >
