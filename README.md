@@ -105,4 +105,19 @@ _Keep in mind you are currently looking at the gh-pages branch.  Any changes you
 
 <hr>
 
+### **Problems We Solve**
+SILK Corp helps solve some of the following problems in life and seeks people passionate about the following issues:
+- Solving the Food Desert Crisis
+- Diabetes Epidemic
+- Obesity Epidemic
+- Mental Health &amp; Safety
+- Providing EcoTourism
+- Sustainability in Households and Commmunities
+- Healthy Food &amp; Healthy Living
+- Gardening and Sunshine
+- Providing Yoga Literacy
+- Homesteading
+- Agile Communications for International Teams and Variable Languages
+- Diversity, Equity, and Inclusion in the Tech Sector
+- Future of Work Literacy
 
