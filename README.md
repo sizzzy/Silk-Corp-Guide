@@ -6,31 +6,41 @@ SILK Corp's mission is to provide a peaceful community for people while empoweri
 
 To check our guide, refer to this website here, https://guide.silkcorp.org/ .
 
+## **[SILK Life TV](https://www.youtube.com/@silklifetv/playlists)**
+Watch [SILK Life TV](https://www.youtube.com/@silklifetv/playlists) to get an idea of our SILK Lifestyle.
 <hr>
 
-## **Affiliated Sites**
+## **SILK YACHT**
 
-To contribute in writing this guide, see the following websites,
+To contribute in writing this guide, see the following websites.
 
-> [Silkyoga.org](https://silkyoga.org/)
+> [SILK Yoga](https://silkyoga.org/)
 > 
-> [Silkarts.org](https://silkarts.org/)
+> [SILK Arts](https://silkarts.org/)
 > 
-> [Silkcafe.org](https://silkcafe.org/)
+> [SILK Cafe](https://silkcafe.org/)
 > 
-> [Silkhomes.org](https://silkhomes.org/)
+> [SILK Homes](https://silkhomes.org/)
+>
+> SILK Tech (Coming Soon)
+>
+<hr>
+
+> [SILK Life](http://silklife.org/)
 > 
-> [Silklife.org](http://silklife.org/)
+> [SILK Corp](https://silkcorp.org/)
 > 
-> [Silkcorp.org](https://silkcorp.org/)
-> 
-> [Silkwomen.org](https://silkwomen.org/)
+> [SILK Women](https://silkwomen.org/)
 
 <hr>
 
 ## **Research Notes**
 
-All Research markdown files are found [here](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages/research). We use markdown files to save our research on topics found in the [Table of Contents](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/TableOfContents.md). If you have access to our OneNote then check this [link](https://focushive.sharepoint.com/:o:/r/sites/DreamHive/msnfp_deliveryframework/SILK%20Corp_E5D4921FED4C4052AE6197B5694CCCCF/SILK%20Corp?d=w72eb6336a5854ef0ac4208cc1996fe20&csf=1&web=1&e=NZTG0L) too.
+* [Research in Markdown Format](https://github.com/NoteHive/Silk-Corp-Guide/tree/gh-pages/research)
+* [Table of Contents](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/TableOfContents.md)
+* [OneNote Research](https://focushive.sharepoint.com/:o:/r/sites/DreamHive/msnfp_deliveryframework/SILK%20Corp_E5D4921FED4C4052AE6197B5694CCCCF/SILK%20Corp?d=w72eb6336a5854ef0ac4208cc1996fe20&csf=1&web=1&e=NZTG0L)
+
+
 
 <hr>
 
@@ -50,8 +60,5 @@ If you're not comfortable working directly on the .html side of this Guide, then
 5. Ask Marisa or Zee if you're a part of our SILK Corp Teams Chat.
 
 <hr>
-
-## **SILK Life TV**
-Also, our [SILK Life TV](https://www.youtube.com/@silklifetv/playlists) Playlist will give you a perspective of our SILK Lifestyle.
 
 
