@@ -59,7 +59,9 @@ We have chosen [USIVA](https://usiva.org) as our preferred Immigration Consultin
 * EB-2
 * E-2
 
-### **Contribution Guide**
+<br>
+
+### **How to Contribute to this Guide**
 A general overview of how to contribute is found in https://github.com/NoteHive/Silk-Corp-Guide .
 
 Everytime your pull requests when working directly on the .html file are merged, it shows in the website https://guide.silkcorp.org/.
@@ -73,6 +75,8 @@ If you're not comfortable working directly on the .html side of this Guide, then
 4. Attach your markdown file to the issue you're working on by commenting.
    - This will help the Admins or others check out your markdown files.
 5. Ask Marisa or Zee if you're a part of our SILK Corp Teams Chat.
+
+_Keep in mind you are currently looking at the gh-pages branch.  Any changes you make should be done to the gh-pages branch if you want to update this section or the actual live website_
 
 <hr>
 
