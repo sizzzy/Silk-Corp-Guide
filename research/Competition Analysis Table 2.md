@@ -1,27 +1,38 @@
 # Competition Analysis Table
 
-| | SILK Corp | Marriott International | Airbnb |
-|-|-----------|----------------------|-------|
-|**1. Yoga**| | | |
-|_Mindfulness_| ✔️ | ❌ | ❌ |
-|_Massage_| ✔️ | ✔️ | ❌ |
-|_Private Yoga_| ✔️ | ❌ | ❌ |
-|_Yoga Retreats_| ✔️ | ❌ | ❌ |
-|_Yoga Teacher Training_| ✔️ | ❌ | ❌ |
-|**2. Arts**| | | |
-|_Art Workshops_| ✔️ | ❌ | ❌ |
-|_Art Exhibitions_| ✔️ | ✔️ | ❌ |
-|_Art Events_| ✔️ | ✔️ | ❌ |
-|**3. Cafe**| | | |
-|_Healthy Menu_| ✔️ | ✔️ | ❌ |
-|_Specialty Coffee_| ✔️ | ✔️ | ❌ |
-|_Cafe Ambience_| ✔️ | ✔️ | ✔️ |
-|_Live Music Nights_| ✔️ | ✔️ | ✔️ |
-|**4. Home**| | | |
-|_Home Decor Boutique_| ✔️ | ❌ | ❌ |
-|_Interior Design Services_| ✔️ | ✔️ | ❌ |
-|_Home Improvement Workshops_| ✔️ | ❌ | ❌ |
+| |SILK Corp | Marriott International | Airbnb|
+|-|-|-|-|
+|**1. Yoga** | | | |
+|_Mindfulness_ | ✔️ | ✔️ | ❌ |
+|_Meditation_ | ✔️ | ❌ | ❌ |
+|_Ayurvedic Consultations_ | ✔️ | ❌ | ❌ |
+|_Tai Chi Classes_ | ✔️ | ❌ | ❌ |
+|**2. Arts**  | | | |
+|_Soap-making_ | ✔️ | ❌ | ❌ |
+|_Gardening_ | ✔️ | ❌ | ❌ |
+|_Painting_ | ✔️ | ❌ | ❌ |
+|_Decorating_ | ✔️ | ❌ | ❌ |
+|_Canning_ | ✔️ | ❌ | ❌ |
+|_Tango Classes_ | ✔️ | ❌ | ❌ |
+|_Ballroom Classes_ | ✔️ | ❌ | ❌ |
+|**3. Cafe** | | | |
+|_Catering Services_ | ✔️ | ❌ | ❌ |
+|_Stellar Service_ | ✔️ | ❌ | ❌ |
+|_Event Planning_ | ✔️ | ❌ | ❌ |
+|_Decor_ | ✔️ | ❌ | ❌ |
+|**4. Home** | | | |
+|_Childcare_ | ✔️ | ❌ | ❌ |
+|_Gardening Assistance_ | ✔️ | ❌ | ❌ |
+|_Hospitality_ | ✔️ | ❌ | ❌ |
+|_Interior Design_ | ✔️ | ❌ | ❌ |
+|_Kitchen Design_ | ✔️ | ❌ | ❌ |
+|_Decorating Assistance_ | ✔️ | ❌ | ❌ |
 |**5. Tech**| | | |
-|_Innovative Apps_| ✔️ | ❌ | ❌ |
-|_Smart Home Integration_| ✔️ | ✔️ | ❌ |
-|_Tech Workshops_| ✔️ | ❌ | ❌ |
+|_BPO Solutions_ | ✔️ | ❌ | ❌ |
+|_Agile & Project Management Expertise_ | ✔️ | ❌ | ❌ |
+|_Research & Data Science_ | ✔️ | ❌ | ❌ |
+|_Social Media Management_ | ✔️ | ❌ | ❌ |
+|_Writing Services_ | ✔️ | ❌ | ❌ |
+|_Office Management_ | ✔️ | ❌ | ❌ |
+|_Document Preparation_ | ✔️ | ❌ | ❌ |
+|_Translation Services_ | ✔️ | ❌ | ❌ |
