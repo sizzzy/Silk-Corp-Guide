@@ -14,3 +14,14 @@
 - Also, visited the KVAC website to check if she can schedule an appointment for VISA.
 - She hopped on a call with workmate to improve the content created for SILK Corp. That meeting was only for 10 minutes to discuss the problems she was 
   facing in the content. 
+
+## 08/09/23
+- Worked for 2 hours only
+- 1 contribution on GitHub
+- Hopped on a 7-minute call to introduce her to a new policy.
+
+## 08/10/23 
+- 4 working hours
+- GitHub shows 5 contributions. Created only one PR on [issue# 93](https://github.com/NoteHive/Silk-Corp-Guide/pull/184), 2nd contribution in which she closed her own PR, 3rd is her [EOD report of 10th August](https://github.com/NoteHive/Silk-Corp-Guide/pull/186), 4rth contribution is again [EOD report of 9th August](https://github.com/NoteHive/Silk-Corp-Guide/pull/181), and last contribution is showing this [link](https://github.com/NoteHive/Silk-Corp-Guide) only.
+- 1 hour and 30-minute session for VS code, guided her on installing all the extensions, GitHub desktop, how to clone the repo, work on the index.html, and create PR. It also includes a TPM meeting where we discussed today's goal, actions, how far we reached on our project, and further plans for our project.
+ 
