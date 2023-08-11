@@ -22,7 +22,11 @@
 - Worked on [issue# 101](https://github.com/NoteHive/Silk-Corp-Guide/pull/171) and [issue# 94](https://github.com/NoteHive/Silk-Corp-Guide/pull/172).
 - Learned on how to comment SMART STAR in the comment of issues and then link it with Focus pass to get feedback. That meeting was about 1 hour and 22 minutes where members of different teams were also invited.
 - Created 2 SMART STAR comments for both issues.
-- More than 30 minute call with SILK team for Backlog grooming session. 
+- More than 30 minute call with SILK team for Backlog grooming session.
+## 08/07/23
+- Working hours- 4
+- PR on [issue# 57](https://github.com/NoteHive/Silk-Corp-Guide/pull/174)
+
 ## 08/08/23
 4 hours working only due to unstable internet
 - Worked only on requested changes regarding pull requests:
@@ -43,3 +47,7 @@
 - GitHub shows 5 contributions. Created only one PR on [issue# 93](https://github.com/NoteHive/Silk-Corp-Guide/pull/184), 2nd contribution in which she closed her own PR, 3rd is her [EOD report of 10th August](https://github.com/NoteHive/Silk-Corp-Guide/pull/186), 4rth contribution is again [EOD report of 9th August](https://github.com/NoteHive/Silk-Corp-Guide/pull/181), and last contribution is showing this [link](https://github.com/NoteHive/Silk-Corp-Guide) only.
 - 1 hour and 30-minute session for VS code, guided her on installing all the extensions, GitHub desktop, how to clone the repo, work on the index.html, and create PR. It also includes a TPM meeting where we discussed today's goal, actions, how far we reached on our project, and further plans for our project.
  
+## 08/11/23
+- Working hours- 4
+- PR on [issue# 90](https://github.com/NoteHive/Silk-Corp-Guide/pull/188), [issue# 89](https://github.com/NoteHive/Silk-Corp-Guide/pull/190/commits/1081506b64dedade7343e1eaf6d9b24a902bf53f), and [issue# 85](https://github.com/NoteHive/Silk-Corp-Guide/pull/187).
+- Had a TPM meeting at 9:00 am EST to discuss our goals, tasks, and actions.
