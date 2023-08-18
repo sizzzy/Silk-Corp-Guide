@@ -28,3 +28,14 @@
 - Hoped on call for TPM Meeting.
 - Hopped on a call with the Phoenix team and they discuss future tasks starting from the next day.
 - Her [EOD](https://github.com/NoteHive/Silk-Corp-Guide/blob/d8f27b9a51458dfea2e13d230101e032a3706cd2/EOD-08-17-23.md) report.
+
+# 08/18/23
+### Friday
+- Working hours- 4
+- Created a PR on [issue# 60](https://github.com/NoteHive/Silk-Corp-Guide/pull/204/commits/4f8a8b4a2833e2a5e352d8809fc55f8b9d6d3edd)
+- Hoped on a call with the Phoenix team. (While agenda and purpose are not mentioned)
+- Checked KVAC online appointment.
+- TPM meeting for 10 minutes.
+- Not using the comment area of the Focus Pass appropriately. Not following the policies. 
+- Not communicating at all while in the meetings.
+- She is also not making her EOD reports properly. She didn't mention the actions she took in her shift and also never mentioned the purpose of the meetings.
