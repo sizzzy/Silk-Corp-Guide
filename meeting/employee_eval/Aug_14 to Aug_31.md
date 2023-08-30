@@ -38,4 +38,19 @@
 - TPM meeting for 10 minutes.
 - Not using the comment area of the Focus Pass appropriately. Not following the policies. 
 - Not communicating at all while in the meetings.
-- She is also not making her EOD reports properly. She didn't mention the actions she took in her shift and also never mentioned the purpose of the meetings.
+- She is also not making her EOD reports properly. She didn't mention the actions she took in her shift and also never mentioned the purpose of the 
+  meetings.
+
+# 08/30/23
+### Wednesday
+- 1st Shift- 4 hours
+- Went to beach and posted them instagram with #SILKlife hashtag and did SILK marketing.
+- Second shift- 4 hours
+- Hoped on a 15 min to discuss her actions with us on the guide and marketing.
+- Learned how to update images on guide in a 30 minute session.
+- Created a pull request on [issue# 210](https://github.com/NoteHive/Silk-Corp-Guide/pull/226)
+
+
+
+
+
