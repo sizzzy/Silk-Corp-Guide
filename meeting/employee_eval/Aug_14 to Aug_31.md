@@ -50,7 +50,11 @@
 - Learned how to update images on guide in a 30 minute session.
 - Created a pull request on [issue# 210](https://github.com/NoteHive/Silk-Corp-Guide/pull/226)
 
-
+# 08/31/23
+### Thursday
+- 1st shift- 4 hours
+- Had ameeting with team to learn how to create EOD files in the speciic folder
+- Created two PRS, [issue# 220](https://github.com/NoteHive/Silk-Corp-Guide/pull/231) and [issue# 210](https://github.com/NoteHive/Silk-Corp-Guide/pull/226)
 
 
 
