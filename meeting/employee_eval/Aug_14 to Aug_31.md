@@ -52,7 +52,10 @@
 
 # 08/31/23
 ### Thursday
-- 1st shift- 4 hours
+- 1st shift - 4 hours
+- Reach out to choir on churches and communicated with them
+- Browse on internet to copy content about health and wellness 
+- 2nd shift- 4 hours
 - Had a meeting for 10 minutes with team to learn how to create EOD files in the speciic folder
 - Created two PRS, [issue# 220](https://github.com/NoteHive/Silk-Corp-Guide/pull/231) and [issue# 210](https://github.com/NoteHive/Silk-Corp-Guide/pull/226)
 
