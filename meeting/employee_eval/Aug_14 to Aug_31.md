@@ -53,7 +53,7 @@
 # 08/31/23
 ### Thursday
 - 1st shift- 4 hours
-- Had ameeting with team to learn how to create EOD files in the speciic folder
+- Had a meeting for 10 minutes with team to learn how to create EOD files in the speciic folder
 - Created two PRS, [issue# 220](https://github.com/NoteHive/Silk-Corp-Guide/pull/231) and [issue# 210](https://github.com/NoteHive/Silk-Corp-Guide/pull/226)
 
 
