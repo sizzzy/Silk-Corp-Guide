@@ -12,7 +12,7 @@ Establish a network of SILK Ambassadors to increase brand visibility, enhance co
 Create a support funnel for Catholic individuals from international communities, particularly from the Philippines, to serve as case managers for homeless individuals in Parkersburg.
 Each milestone has its own timeline, ranging from one to four months, depending on the complexity and requirements.
 
-![SILK Roadmap](https://github.com/NoteHive/Silk-Corp-Guide/assets/117284277/1ee9dafe-ef09-4471-ae8f-51e10d6a94e7)
+![SILK Roadmap (1)](https://github.com/NoteHive/Silk-Corp-Guide/assets/117284277/19ce75c6-e5b9-4c09-82cf-a98d238e664a)
 
 
 ------
