@@ -11,6 +11,8 @@ Establish a network of SILK Ambassadors to increase brand visibility, enhance co
 ## **International Catholic Community Support System Development**: 
 Create a support funnel for Catholic individuals from international communities, particularly from the Philippines, to serve as case managers for homeless individuals in Parkersburg.
 Each milestone has its own timeline, ranging from one to four months, depending on the complexity and requirements.
+
+
 ![image](https://github.com/rahmatzeb/Silk-Corp-Guide/assets/130325237/690108f1-eac6-4fb5-be3d-99ea58b66a84)
 
 
