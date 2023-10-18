@@ -1,0 +1,32 @@
+# Uploading Media Content on Git Hub #
+## Steps Updating Media Content on Git Hub ##
+- Go to forked repository
+- Select gh pages branch
+- Sync it, update the branch if it’s out of date
+- Edit the source of the image.
+- Go to "index.htlml" file
+- Select edit the file
+- Search the file and change the source of the image.
+- commit changes.
+- Add commit message
+- Add description
+- Propose Changes
+- Compare Changes
+- Compare across forks
+- Select Base repository as "NoteHive/SILK-Corp-Guide"
+- Select Base as "gh-pages"
+- Select base repository as your forked repository e.g rahmatzeb/SILK-Corp-Guide
+- Select comapre as your new branch e.g rahmatzeb-patch-6
+- Now create a Pull request
+- Click on the link of your pull request below the description
+- click on three dots
+- Click edit the file
+- Go to images
+- but before going to image
+- make sure you resized the image through pixler
+- and saved it by name, having no spaces or just underscore as this "_"
+- Go to upload
+- Upload the image
+- Add a description
+- Now commit directly to your branch where you change the source name
+- Congratulations, you created Pull request successfully...
