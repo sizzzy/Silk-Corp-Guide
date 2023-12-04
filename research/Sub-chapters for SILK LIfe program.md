@@ -327,3 +327,18 @@ Tailor your practice to meet your body’s needs like a seamstress adjusts her s
 ##### Utilize language learning applications and platforms to bridge communication gaps between different cultures present within the SILK community. Encourage participants to both learn and teach languages using these tools, promoting an environment of mutual education and respect.
 
 ##### Through these Tech activities in Chapter 3: The YACHT Activities - Strands of Success, we recognize technology as a loom on which we can weave together threads from various cultures into a fabric of shared understanding and progress. It is through this interlacing of skills and traditions that we not only advance our own capabilities but also contribute meaningfully to the communities we touch—a true reflection of the interconnected world envisioned by SILK Life.
+
+
+# New pointers:
+- Add some SILK Heritage into the write up
+- An entire chapter on SILK Heritage to help show our culture.
+- This will discuss the SILK Road and the roots put down here by our ancestors.
+- I want to focus on Amish- Mennonite and the Original Settlers here, my ancestors
+- Bring things back to the basics with the vibe of the original settlers as part of our cultural exchange and have unique outfits, cups, music, clocks
+old fashioned houses, etc.
+- All of this to share with foreigners who come - who also show us their ancestral heritage.
+- We're not interested in any of their modern culture, but would be of their ancestral.
+
+  ![MicrosoftTeams-image (5)](https://github.com/NoteHive/Silk-Corp-Guide/assets/117284277/c60f601c-30e1-4c03-beee-166a32226b2e)
+![MicrosoftTeams-image (6)](https://github.com/NoteHive/Silk-Corp-Guide/assets/117284277/f2c1a84a-72f4-41ea-85ef-57d235380a3a)
+
