@@ -2,7 +2,6 @@
 **Job Title:** SILK Life Cultural Exchange Intern 
 
   
-
 **Location:** Mid-Ohio Valley, SILK Life Properties 
 
   
