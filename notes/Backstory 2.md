@@ -551,8 +551,3 @@ SILK Life invites passionate and open-minded individuals to apply for our entry-
 Please submit a resume and a cover letter detailing your interest in the Cultural Exchange Internship and how you align with the SILK Life ethos. Highlight any relevant experiences or skills, even if they are from informal or non-traditional settings.
  
 SILK Life is dedicated to fostering an inclusive, diverse, and respectful community. We welcome applicants from all backgrounds and levels of experience who are eager to embark on this life-enriching journey. Join us to build your SILK YACHT and sail toward a future of opportunities and growth.
-
-
-
-
-![image](https://github.com/SuzyQuant/Silk-Corp-Guide/assets/61100293/2ecdda05-4c89-4e7e-8717-4fae02d44fd8)
