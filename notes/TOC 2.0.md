@@ -16,7 +16,7 @@
 
 - **Strength Revealed:** Cultivating Resilience and Power Within
 
-- **Integrity Woven Tight:** Living Authentically in Every Thread
+- **Integrity Woven Tight:** Living Authentically in Every Fiber
 
 - **Love Interlaced:** Creating Deep Connections
 
