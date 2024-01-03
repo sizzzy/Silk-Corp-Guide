@@ -43,31 +43,31 @@
 
 - ### Yoga - Unifying the Mind and Body
 
-     - **Alignment with Virtues:** Harmonizing Asanas and Inner Strength
+     - **Align with Virtues:** Blend Yoga Poses with Inner Strength
 
-     - **Sunrise Salutations:** Greeting the Dawn with Intention
+     - **Sunrise Salutations:** Start the Day Focused and Purposeful
 
-     - **Mindful Movement:** Intertwine Patience into Practice
+     - **Mindful Movement:** Practice Patience through Each Movement
 
-     - **Meditation:** Crafting Clarity in Stillness
+     - **Meditation:** Finding Clarity in Stillness
 
-     - **Yoga Philosophy Integration:** Living the Ethos Off the Mat
+     - **Yoga Philosophy Integration:** Living the Lessons Daily
 
-     - **Adaptive Yoga Practices:** Customizing the Fabric of Your Practice
+     - **Adaptive Yoga Practices:** Tailor to Fit You
 
 - ### Arts - The Expression of the Soul
 
-     - **Weaving Stories Through Dance:** Choreographing Cultural Narratives
+     - **Dance:** Tell Your Community's Tales
 
-     - **Sculpting Emotions:** Molding Expressions from Clay to Core
+     - **Soap Creations:** Shaping Soaps That Celebrate Your Heritage and Traditions
 
-     - **Painting as Reflection:** Brushstrokes of Personal Journeys
+     - **Painting:** Strokes of Care for Living Spaces
 
      - **Literacy:** Spinning Words and Wisdom
 
-     - **Photographic Memories:** Capturing Time in a Frame of Focus
+     - **Photography:** Capturing Time in a Frame of Focus
 
-     - **Cultural Craftsmanship:** Heritage into Handiwork
+     - **Cultural Crafts:** Heritage into Handiwork
 
 - ### Cafe - The Art of Conversation and Connection
 
