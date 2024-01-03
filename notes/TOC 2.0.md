@@ -123,14 +123,18 @@
 - **Community Threads Woven Together**:
 
      - Sharing Stories, Experiences, and Lessons Learned
+         - _Legacy Threads_: Highlighting inspiring narratives from SILK alumni who have successfully applied the program’s principles.
 
      - Interlacing Lives: Creating a Supportive Network within SILK Life
+         - Featuring testimonials on how connections made during the program have supported personal and professional growth.
 
 - **Expanding the Hive**:
 
      - Engaging in Global Conversations
+         - Alumni spotlights showing where they are now—how they've expanded their horizons post-program.
 
      - Collaborative Projects that Enrich Individual Journeys
+         - Showcasing collaborative projects initiated by alumni that embody the spirit of SILK Life.
 
 ### Chapter 8: Mastering The SILK Tapestry - Advanced Techniques Across Pillars
   - Elevating Each Aspect of YACHT
