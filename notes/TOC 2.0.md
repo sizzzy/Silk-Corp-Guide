@@ -79,7 +79,7 @@
 
      - **Tasting Sessions as Cultural Dialogues:** Savoring Stories Bite by Bite
 
-     - **Beverage Blends as Cultural Bridges:** Pouring Unity into Every Cup
+     - **Kombucha Creations**: Fermenting Friendships Along with Tea
 
      - **Marketplace Melting Pots:** Foraging for Ingredients and Interactions
 
