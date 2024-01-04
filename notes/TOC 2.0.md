@@ -59,7 +59,7 @@
 
      - **Dance:** Tell Your Community's Tales
 
-     - **Soap Creations:** Shaping Soaps That Celebrate Your Heritage and Traditions
+     - **Soap Creations:** Soap Designs with a Touch of Your Culture
 
      - **Painting:** Strokes of Care for Living Spaces
 
