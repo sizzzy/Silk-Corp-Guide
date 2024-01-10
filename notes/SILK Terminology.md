@@ -102,4 +102,15 @@ High-warp (vertical) or low-warp (horizontal) looms can influence your technique
 Yarn Selection: Wool, cotton, linen, silk, and various blends offer different textures, weights, and color possibilities.
 Cartoon Design: A detailed drawing or plan that guides your weaving, ensuring accuracy and composition.
 This is just a glimpse into the diverse world of tapestry weaving. Remember, the possibilities are endless! Feel free to ask about specific techniques, historical styles, or contemporary artists who inspire you. Let's unravel the threads of your curiosity and weave a conversation as vibrant and intricate as a tapestry itself.
+### Spinning and weaving are two methods of making textiles. They are different from each other in the procedure.
+
+Spinning
+
+Weaving
+
+In this process, threads are made from raw fibers.	In this process, clothes are made from threads.
+It provides raw materials for the weaving process.	It is the process of creating continuous lengths of fabrics.
+Ring-spun, wrap-spun, and core-spun are some of the methods of spinning.	Crepe, muslin, and organdy are some of the products of weaving.
+Spinning
+
  
