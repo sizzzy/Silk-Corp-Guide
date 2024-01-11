@@ -106,11 +106,47 @@ This is just a glimpse into the diverse world of tapestry weaving. Remember, the
 
 Spinning
 
+### Weaving
+
+In this process, threads are made from raw fibers.	In this process, clothes are made from threads.
+It provides raw materials for the weaving process.	It is the process of creating continuous lengths of fabrics.
+Ring-spun, wrap-spun, and core-spun are some of the methods of spinning.	Crepe, muslin, and organdy are some of the products of weaving
+
 Weaving
 
 In this process, threads are made from raw fibers.	In this process, clothes are made from threads.
 It provides raw materials for the weaving process.	It is the process of creating continuous lengths of fabrics.
 Ring-spun, wrap-spun, and core-spun are some of the methods of spinning.	Crepe, muslin, and organdy are some of the products of weaving.
-Spinning
+WEAVING ON THE ELP LOOM
+1. Rigid heddle. Move up and down to change position
+of length-wise (warp) threads, so you can weave.
+2. Back beam or warp beam.
+3. Rear ratchet – loosen to move cloth forward. Then
+tighten up to weave.
+4. Wing nuts. Loosen to fold loom up. Tighten to hold in
+position while you weave.
+5. Cloth.
+6. Front beam.
+7. Front ratchet. Wind towards yourself to move the
+cloth forward.
+8. Cloth beam. As you weave, you will wind cloth onto
+this beam to free up more warp threads for your
+children to weave.
+9. Base.
+1. When you come to the fort, the loom will be warped with cotton threads; i.e., lengthwise threads will b
+THE FUNCTIONS OF TEXTILE WEAVES;
+i. Kente textile weave from Ghana have been used for clothe wearing but now serves the
+decorative use of wall hanging, bell pulls and sitting room mats.
+ii. The Akwetes Kente weaves are used for ceremonial occasions in the past .
+iii. The Akwetes textile weaves are worn by women as wrapper skirt with light white blouse on top.
+Other uses are in form of suite coats, waist jackets, shoes, headtie, decoration’s tapestry.
+Types of Weaving Looms and Their Weaves;
+a. The horizontal loom is designed for the men and commonly used in Kano, Bida, Iseyin, Junku
+in Senegal, Yola, Okene and Benin. The cloth woven by the Yoruba male weaver on the
+horizontal loom is a long continuous strip roll, measuring about 5ins- 6ins in width.
+b. The vertical loom is designed for the women and also popular with the Kanuri, Junku, Dakar,
+Benin and Yoruba speaking areas of Nigeria. The women cloth of the Yoruba and Akwete
+women in a vertical looms has a regular and predictable length.
+
 
  
