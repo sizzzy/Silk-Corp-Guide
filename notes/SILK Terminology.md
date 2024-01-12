@@ -134,7 +134,7 @@ this beam to free up more warp threads for your
 children to weave.
 9. Base.
 1. When you come to the fort, the loom will be warped with cotton threads; i.e., lengthwise threads will b
-THE FUNCTIONS OF TEXTILE WEAVES;
+### THE FUNCTIONS OF TEXTILE WEAVES;
 i. Kente textile weave from Ghana have been used for clothe wearing but now serves the
 decorative use of wall hanging, bell pulls and sitting room mats.
 ii. The Akwetes Kente weaves are used for ceremonial occasions in the past .
@@ -147,6 +147,55 @@ horizontal loom is a long continuous strip roll, measuring about 5ins- 6ins in w
 b. The vertical loom is designed for the women and also popular with the Kanuri, Junku, Dakar,
 Benin and Yoruba speaking areas of Nigeria. The women cloth of the Yoruba and Akwete
 women in a vertical looms has a regular and predictable length.
+### what is weaving 
+Weaving is a method of textile production in which two distinct sets of yarns or threads are interlaced at right angles to form a fabric or cloth. Other methods are knitting, crocheting, felting, and braiding or plaiting.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### How SILK IS FORMED FROM SILKWORMS
+These are videos which I watched today
+
+https://www.youtube.com/watch?v=xBz40ZxKJBs
+https://www.youtube.com/watch?v=WquDu4_n_bc
+silkworm cocoon time lapse
 
 
  
