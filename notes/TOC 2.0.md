@@ -2,11 +2,12 @@ Welcome Aboard the SILK Life Voyage!
 
 Embark on a journey where life's fibers are spun into a vibrant tapestry. The SILK Life program is your compass, guiding you through a cosmos woven with intention and artistry. Here, virtues are not just threads but the very yarns that give strength and color to the fabric of our being.
 
-### Introduction: SILK Life - Navigating Journey on SILK Road
+### Introduction: SILK Life - Navigating the SILK Journey
 
-- **The SILK Journey**
+- **The Old SILK Road**
+- **Introducing the New SILK Road**
 
-### Chapter 1: The New SILK Road - Crafting Digital Weaves
+### Chapter 1: The SILK Journey Today
   
   - **The New SILK Road**
   - **Start Your Journey**
