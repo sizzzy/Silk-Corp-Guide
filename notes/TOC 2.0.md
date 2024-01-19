@@ -12,7 +12,7 @@ Embark on a journey where life's fibers are spun into a vibrant tapestry. The SI
   - **The New SILK Road**
   - **Start Your Journey**
 
-### Chapter 2: [The SILK Virtues - The Core Fibers](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/SILK%3A%20The%20Fabric%20of%20Our%20Being.md)
+### Chapter 2: [The SILK Compass - The Core Virtues](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/SILK%3A%20The%20Fabric%20of%20Our%20Being.md)
 
 - **Strength**
 - **Integrity** 
