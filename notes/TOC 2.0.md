@@ -18,15 +18,16 @@ Embark on a journey where life's fibers are spun into a vibrant tapestry. The SI
 - **Love**
 - **Knowledge**
 
-### Chapter 3: Unravel the SILK - A Minimal Approach
-- **Unwinding**
+### Chapter 3: Unwind the SILK - A Minimal Approach
+- **Reeling**
+- **Throwing**
 
 ### Chapter 4: [The SILK Loom - Setting Weekly Intentions](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/Matrix.md)
 - **[Setting Intentions](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/SILK%20YACHT%3A%20Your%20Vessel%20of%20Transformation.md)**
 - **[Plotting the Design](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/weekly%20Itineray.md)**
-- **Selecting Your Palette**
+- **Selecting Your Dye**
 
-### Chapter 5: The [SILK YACHT](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/SILK%20YACHT.md) - Palette of Success
+### Chapter 5: The [SILK YACHT](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/SILK%20YACHT.md) - Dye of Success
 
 - **Yoga - Unifying the Mind and Body**
 - **Arts - The Expression of the Soul**
