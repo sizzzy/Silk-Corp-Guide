@@ -4,9 +4,7 @@ Embark on a journey where life's fibers are spun into a vibrant tapestry. The SI
 
 ### Introduction: SILK Life - Navigating Journey on SILK Road
 
-- **The Original SILK Road**
-- **The Compass of Virtues**
-- **The Fabric of Existence**
+- **The SILK Journey**
 
 ### Chapter 1: The New SILK Road - Crafting Digital Weaves
   
