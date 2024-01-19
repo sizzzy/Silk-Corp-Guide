@@ -19,7 +19,7 @@ Embark on a journey where life's fibers are spun into a vibrant tapestry. The SI
 - **Knowledge**
 
 ### Chapter 3: Unravel the SILK - A Minimal Approach
-- **Shedding Layers**
+- **Unwinding**
 
 ### Chapter 4: [The SILK Loom - Setting Weekly Intentions](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/Matrix.md)
 - **[Setting Intentions](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/SILK%20YACHT%3A%20Your%20Vessel%20of%20Transformation.md)**
