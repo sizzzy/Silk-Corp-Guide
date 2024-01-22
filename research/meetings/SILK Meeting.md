@@ -94,3 +94,7 @@ For something like a scarf which requires less tailoring than fitted garments su
 - They undergo similar detailing (like embroidery) if needed, followed by quality control checks before being pressed and packaged.
  
 In all cases, each phase requires careful attention to detail to ensure that the final product meets standards of beauty and quality associated with silk items.
+
+
+![MicrosoftTeams-image (13)](https://github.com/Aini-Bashir/Silk-Corp-Guide/assets/117284277/40d62695-a75d-40c7-b8f2-86ddbeafc767)
+
