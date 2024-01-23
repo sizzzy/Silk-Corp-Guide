@@ -15,6 +15,10 @@ The namesake of this blog! More commonly known as the vertical yarn in a weaving
 ### Weft
 The horizontal threads that are passed over and under the foundation warp threads. A good way to remember this is that Weft Goes Left. I mean it also goes right… but that doesn’t rhyme. You get the picture. Weft can be anything from yarn to fabric to grass. Pretty much anything can be weft. Inspiring.
 ### EPI
-Ends Per Inch. This refers to the number of warps that reside in every inch of your weaving. This will determine the spacing of the warps. Warp spacing is incredibly important because it determines the kind of weaving you are making. A larger EPI will usually result in a more balanced weave. A smaller EPI will usually result in a weft-faced weave. As in life – there are exceptions and it’s a bit more complicated than that, but that’s your general rule
+Ends Per Inch. This refers to the number of warps that reside in every inch of your weaving. This will determine the spacing of the warps. Warp spacing is incredibly import ant because it determines the kind of weaving you are making. A larger EPI will usually result in a more balanced weave. A smaller EPI will usually result in a weft-faced weave. As in life – there are exceptions and it’s a bit more complicated than that, but that’s your general rule
 ### Plain Weave (Tabby)
 Weave structure in which the weft passes over, then under consecutive warps. Think of it as over one warp and under the next. Repeat, repeat, repeat. A lot of types of weavings fit into this description – including balanced weave and tapestry.
+### Warp: 
+The vertical threads that run the length of the loom.
+
+
