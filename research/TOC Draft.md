@@ -21,17 +21,24 @@ Embark on a journey where life's fibers are spun into a vibrant tapestry. The SI
 - **Knowledge**
 
 ### Chapter 3: Unwind the SILK - A Minimal Approach
-- **Reeling Your SILK**
 - **[Setting Intentions](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/SILK%20YACHT%3A%20Your%20Vessel%20of%20Transformation.md)**
-### Chapter 4 : Throwing SILK 
-- **Overview of SILK Throwing**
-- Strengthen Your SILK
+- **Reeling Your SILK**
 
-### Chapter 5: [The SILK Loom - Setting Weekly Intentions](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/Matrix.md)
+### Chapter 4: Dyeing SILK - Coloring Your SILK Journey
+- **Preparing the Dyes - The Palette of Possibilities**   
+- **The Dyeing Process - Embroiding Your SILK with Character**
+- **Setting the Color - Commitment to the Journey** 
+- **The Spectrum of Life - Embracing Diversity in Your SILK**
+
+### Chapter 5 : Throwing SILK 
+- **Overview of SILK Throwing**
+- **Strengthen Your SILK**
+
+### Chapter 6: [The SILK Loom - Setting Weekly Intentions](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/Matrix.md)
 - **Prepare Your Loom**
 - **[Plotting the Design](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/weekly%20Itineray.md)**
 
-### Chapter 6: The [SILK YACHT](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/SILK%20YACHT.md) - Dye of Success
+### Chapter 7: The [SILK YACHT](https://github.com/NoteHive/Silk-Corp-Guide/blob/gh-pages/research/SILK%20YACHT.md) - Dye of Success
 
 - **Yoga - Unifying the Mind and Body**
 - **Arts - The Expression of the Soul**
