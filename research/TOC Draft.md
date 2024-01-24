@@ -56,3 +56,14 @@ The weaving stage is the final and most rewarding step in the process of weaving
 - Preparing Your Loom: This sub-point will help you to set up your loom with the warp and weft threads, which are the vertical and horizontal threads that form the fabric. You will learn how to use your weekly plan as your loom, and assign your tasks and projects as your warp and weft threads. You will also learn how to adjust the tension and spacing of your threads, to ensure a smooth and even weaving.
 - Creating Your Pattern: This sub-point will help you to create the pattern of your fabric, which is the design or motif that you want to weave. You will learn how to use your intentions and goals as your pattern, and follow the design that you plotted in the previous chapter. You will also learn how to use different techniques, such as plain weave, twill weave, and satin weave, to create different effects and textures in your fabric.
 - Weaving Your Cloth: This sub-point will help you to weave your fabric, which is the final product of your weaving process. You will learn how to use your loom to interlace your warp and weft threads, and form the cloth. You will also learn how to monitor your progress and quality, and troubleshoot any problems or errors that may occur during the weaving. You will also learn how to finish your fabric, by cutting it from the loom, and securing the edges.
+
+
+## Process of SILK Weaving
+The process of weaving silk fiber from cocoon to fiber involves several steps, such as:
+
+- **Sericulture**: This is the term used to describe the process of gathering the silkworms and harvesting the cocoon to collect the materials. Female silkmoths lay anything from around 300 – 500 eggs at any one time³.
+- **Stifling**: This is the process of killing the pupa inside the cocoon by exposing it to hot air or steam. This prevents the pupa from breaking the silk filament and hatching out of the cocoon².
+- **Boiling**: This is the process of softening the cocoon by immersing it in hot water. This also dissolves the sericin, a sticky protein that holds the silk filament together. The end of the silk filament can then be located and unwound from the cocoon¹².
+- **Reeling**: This is the process of unwinding the cocoon and weaving together several silk filaments into a single strand of silk. This is usually done by machines that rotate brushes to catch the end of the silk filament and pull it out of the cocoon².
+- **Twisting and Dyeing**: This is the process of twisting several strands of silk together to form a thicker and stronger yarn. This is also the stage where the silk yarn can be dyed with different colors and patterns².
+- **Weaving**: This is the process of interlacing the silk yarns into a fabric by using a loom. The silk fabric can have different textures and designs depending on the type of weave and the quality of the silk yarn².
