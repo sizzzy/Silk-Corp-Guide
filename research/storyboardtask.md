@@ -47,3 +47,11 @@ The storyboard will be reviewed by Mr. Hackney and the SILK Life team to ensure 
  
 **Final Note:**
 The storyboard should be a visual representation of the transformative power of SILK Life, capturing the essence of a woman's journey from a tangled, chaotic state to a smooth, aligned, and empowered spirit.
+
+
+# Pointers
+- can you bring children into the vision, too?
+- Like....the woman starts off in her own head, isolated, and chaotic.....
+- then, she gets mentored by grandma and gets her "silk aligned"
+- once it is aligned, she has her own happy family & she teaches children & she even becomes the grandma?
+- it's full circle
