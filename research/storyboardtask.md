@@ -55,3 +55,10 @@ The storyboard should be a visual representation of the transformative power of 
 - then, she gets mentored by grandma and gets her "silk aligned"
 - once it is aligned, she has her own happy family & she teaches children & she even becomes the grandma?
 - it's full circle
+- Silk harvested
+- Unwound
+- Put on spool 🧵
+- Loomed
+- Into a fabric
+- Combined into a tapestry
+- Fabric is the human spirit
