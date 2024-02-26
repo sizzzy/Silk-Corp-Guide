@@ -27,7 +27,7 @@
 3. A early adulthood girl who wears Hijab, profile facing left, smoothing the silk threads on a reel from chaotic mass of tangled threads. The silk threads are now a part of her, representing her renewed spirit, full of confidence and clarity.
 4. A light grayscale image of a early adult female weaving on a loom, all over silk cloth in the background
 6. Create a image of a middle age adult Hijabi woman, silk threads forming a aura of clothes around the woman.
-7. A middle age adult hijabi woman wearing the silk clothes playing with her hijabi daughters
+7. A grayscale image of an adult hijabi woman doing outsource work
 8. A hijabi woman teaching weaving to her granddaughters all wearing silk dress
 9. An light grayscale image of an old hijabi woman teaching to hijabi granddaughters wearing silk dress
 
@@ -40,7 +40,7 @@
 4. A black adult girl weaving on a loom
 5. a grayscale image of a adolescence Black woman, silk forming delicately silk clothes around the woman, with glimmering and joyous expressions
 6. A black Adolescence girl, serene and composed, with the silk aura forming a cloth glowing brightly around her.
-7. A black adult bride wearing silk dress
+7. A black woman planting with community
 8. A black middle age adult woman playing with two black daughters all wearing silk dress.
 9. a black old woman teaching weaving to her granddaughter all wearing silk dress
 
@@ -58,9 +58,9 @@
    
 
 # 6. Storyboard prompts for the Spider:
-1. Create an image portraying an upset spider with prominently expressive eyes, ensnared within a swirling, dense mass of silk threads. Emphasize the chaotic and unstructured quality of the substance, capturing the tangled and intricate nature of the scene.
-2. Create an image featuring a spider with notably serious and expressive eyes, engaged in the task of untangling silk threads. Highlight the scene with half of the threads tangled and the rest partially untangled. Depict the spider delicately holding a thread, actively attempting to unravel it from the entanglement.
-3. A light grayscale image portraying a single upset spider with expressive eyes, front legs delicately pulling and shaping a single strand of silk from its spinnerets. The strand stretching outwards towards a blurred background. Emphasize the deliberate movement and focus of the spider.
-4. A light grayscale image portraying a single cute spider with serious expressive eyes, a partially constructed spiderweb against a dark background. The initial strands form intricate geometric patterns, with dewdrops clinging to them like tiny jewels. Depict the web as delicate yet strong, highlighting the precise placement of each silk thread.
+1. a cute confused spider ensnared within a swirling, dense mass of silk threads
+2. A cute spider untangling silk threads, with notably serious and expressive eyes. Highlight the scene with half of the threads tangled and the rest partially untangled. Focus more on untangling process.
+3. A light grayscale image portraying a cute spider with expressive eyes, front legs delicately pulling and shaping a single strand of silk from its spinnerets. Focus highly on the shaping thread
+4. 4. A light grayscale image portraying a single cute spider with serious expressive eyes, a partially constructed spiderweb against a dark background. The initial strands form intricate geometric patterns, with dewdrops clinging to them like tiny jewels. Depict the web as delicate yet strong, highlighting the precise placement of each silk thread.
 5. A light grayscale image portraying a single cute spider with serious expressive eyes, a partially constructed web. The initial strands form intricate geometric patterns, with dewdrops clinging to them like tiny jewels. Depict the web as delicate yet strong, highlighting the precise placement of each silk thread.
 6. A light grayscale image of a cheerful jumping spider with big, expressive eyes spins a web between colorful flowers, giggling as it bounces on the silken threads.
