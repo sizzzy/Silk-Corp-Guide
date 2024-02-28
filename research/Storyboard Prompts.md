@@ -57,10 +57,18 @@
 9. AN old man teaching to his grandson in a room
    
 
-# 6. Storyboard prompts for the Spider:
+# 6. Storyboard prompts for the Spider# 1
 1. a cute confused spider ensnared within a swirling, dense mass of silk threads
 2. A cute spider untangling silk threads, with notably serious and expressive eyes. Highlight the scene with half of the threads tangled and the rest partially untangled. Focus more on untangling process.
 3. A light grayscale image portraying a cute spider with expressive eyes, front legs delicately pulling and shaping a single strand of silk from its spinnerets. Focus highly on the shaping thread
 4. 4. A light grayscale image portraying a single cute spider with serious expressive eyes, a partially constructed spiderweb against a dark background. The initial strands form intricate geometric patterns, with dewdrops clinging to them like tiny jewels. Depict the web as delicate yet strong, highlighting the precise placement of each silk thread.
 5. A light grayscale image portraying a single cute spider with serious expressive eyes, a partially constructed web. The initial strands form intricate geometric patterns, with dewdrops clinging to them like tiny jewels. Depict the web as delicate yet strong, highlighting the precise placement of each silk thread.
 6. A light grayscale image of a cheerful jumping spider with big, expressive eyes spins a web between colorful flowers, giggling as it bounces on the silken threads.
+
+# 7. Storyboard prompts for the Spider# 2
+1. unraveling silk threads in dark colors, a cute little spider in a light shade delicately unraveling threads from raveled chaotic mass of the silk threads
+2. a little light gray shade spider holding and pulling several straight silk threads in dark black color with messy thready background
+3. Craft an image emphasizing the pullying and shaping of dark color silk threads. a cute little spider in a light shade delicately smoothing and shaping the silk threads.
+4. a little cute light gray shade spider weaving dark black color silk threads.
+5. A tiny small spider knitting a large spider web
+6. A tiny small spider on a tree weaving a large black spider web
