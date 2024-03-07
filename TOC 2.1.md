@@ -2,9 +2,9 @@
 - The Old SILK Road
 - Introducing the New SILK Road
 
-## Chapter 1: Unraveling the Core Fibers
+## Chapter 1: Entangled Core Fibers
+- Recognizing the Knots: Identifying Life's Complexities
 - Start Your Journey
-- Setting Intentions
 
 ## Chapter 2: Rhythmic Unraveling - A Mind-Opening Approach
 - Overview of the SILK Compass
@@ -21,6 +21,7 @@
 - Tech - The Tool for Advancement
 
 ## Chapter 4: The Weave of Well-Being- Structured Intentions
+- Setting Intentions
 - Plotting the Design
 - Selecting Your Dye
 
@@ -32,12 +33,17 @@
 ## Chapter 6: The Transformed Spirit
 - Tailoring Techniques
 - Fitting Sessions
+
 ## Chapter 7: Cultivating the SILK Colony
+- Harvesting Wisdom: Lessons from the SILK Lifecycle/journey
+- Weaving Connections
 
 ## Chapter 8: SILK Horizons- Mid-Ohio Valley
 - The Runway
 - Mid-Ohio Valley Caravan
-- 
+
 ## Chapter 9: The SILK Beacon: Start Your Own Silk Life Franchise
 - Weaving Your Business Tapestry
 - Couture Workshops Expansion
+
+
