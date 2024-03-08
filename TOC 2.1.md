@@ -1,11 +1,11 @@
-# Introduction: SILK Lfe - Navigating Life's Journey
+# Introduction: SILK Life - Navigating Life's Journey
 - The Old SILK Road
 - Introducing the New SILK Road
 
 ## Chapter 1: Entangled Core Fibers
-- Recognizing the Knots: Identifying Life's Complexities
 - Start Your Journey
-
+- Recognizing the Knots: Identifying Life's Complexities
+  
 ## Chapter 2: Rhythmic Unraveling - A Mind-Opening Approach
 - Overview of the SILK Compass
 - Strength
@@ -35,12 +35,13 @@
 - Fitting Sessions
 
 ## Chapter 7: Cultivating the SILK Colony
-- Harvesting Wisdom: Lessons from the SILK Lifecycle/journey
-- Weaving Connections
+- Community Events
+- Partnering with Local Organizations
+- Mid-Ohio Valley Caravan
 
 ## Chapter 8: SILK Horizons- Mid-Ohio Valley
-- The Runway
-- Mid-Ohio Valley Caravan
+- Ignite Curiosity
+- Harvesting Wisdom: Lessons from the SILK Lifecycle/journey
 
 ## Chapter 9: The SILK Beacon: Start Your Own Silk Life Franchise
 - Weaving Your Business Tapestry
