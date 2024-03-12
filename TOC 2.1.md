@@ -13,7 +13,7 @@
 - Love
 - Knowledge
 
-## Harmonizing the Threads
+## Chapter 3: Harmonizing the Threads
 - Grasping the Strands: Taking Hold of Chaos
 - Aligning the Fibers: Laying the Foundations for Smoothness
 
@@ -22,7 +22,7 @@
 - Plotting the Design
 - Selecting Your Dye
 
-## Chapter 3: The YACHT Endeavors- Strands of Success
+## Chapter 5: The YACHT Endeavors- Strands of Success
 - Yoga - Unifying the Mind and Body
 - Arts - The Expression of the Soul
 - Cafe - The Art of Conversation and Connection
@@ -42,7 +42,6 @@
 ## Chapter 8: SILK Horizons
 - Ignite Curiosity
 - Harvesting Wisdom- Unfolding SILK Stories
-
 
 ## Chapter 9: The SILK Beacon
 - Weaving Your Business Tapestry
