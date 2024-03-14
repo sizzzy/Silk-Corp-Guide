@@ -46,4 +46,4 @@
 **Chapter 9: The SILK Beacon**
 - Weaving Your Business Tapestry
 - Couture Workshops Expansion
-- Spinning the Market- Weaving Your SILK Business into Success
+- Weaving Your SILK Business into Success
