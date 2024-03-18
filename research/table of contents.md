@@ -40,4 +40,14 @@ Harvesting Wisdom- Unfolding SILK Stories
 ### Chapter 9: The Beacon with self improvement theme 
 Weaving Your Business 
 Couture Workshops Expansion
- 
+
+
+ #### titles of Table of contents
+ Introduction: SILK Life: Managing the Journey of Life
+Announcing the New Silk Road: A Look Back at the Old One
+
+Section 1: Intertwined Core Fibers
+Begin Your Travels
+Finding the Knots: Identifying the Complexities in Life
+Chapter 2: An Analysis of Rhythm
+
