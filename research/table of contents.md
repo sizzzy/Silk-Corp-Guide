@@ -6,10 +6,10 @@
 - Unveiling the Tangles: Navigating Life’s Intricacies
 ### Chapter 2: The Threads of Enlightenment
 - Introducing the SILK Prism
-- Valor
-- Honesty
-- Empathy
-- Insight
+- Srength 
+- integrity 
+- LOVE 
+- Knowledge 
 ### Chapter 3: Synchronizing Life's Symphony
 - Embracing the Chaos: Mastering the Melody
 - Composing Harmony: Crafting the Blueprint for Balance
@@ -17,12 +17,12 @@
 - Envisioning Tomorrows
 - Sketching the Blueprint
 - Choosing the Palette
-### Chapter 5: The ALCHEMY Quests - Crafting Success with Soul
+### Chapter 5: The YACHT Quests - Crafting Success with Soul
  - Yoga - The Harmony of Essence
-- Artistry - The Voice of the Spirit
-- Councils - Mastery in Dialogue and Bond
-- Hearth - The Pillar of Serenity
-- Innovation - The Catalyst for Evolution
+-  Art - The Voice of the Spirit
+- Cafe - Mastery in Dialogue and Bond
+- Home - The Pillar of Serenity
+- Tech- - The Catalyst for Evolution
 ### Chapter 6: The Enlightened spirit 
 - Mosaic of Empowerment
 - The Essence of Achievement
