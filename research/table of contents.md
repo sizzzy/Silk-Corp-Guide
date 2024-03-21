@@ -13,8 +13,7 @@
 ### Chapter 3: Synchronizing Life's Symphony
 - Embracing the Chaos: Mastering the MelodyHarmony:
 -  Crafting the Blueprint for Balance
-### Chapter 4: Crafting Serenity - The
-- Composing  Art of Purposeful Living
+### Chapter 4: Crafting Serenity -The Art of Purposeful Living
 - Envisioning Tomorrows
 - Sketching the Blueprint
   
