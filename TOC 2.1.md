@@ -44,6 +44,6 @@
 - Harvesting Wisdom- Unfolding SILK Stories
 
 **Chapter 9: The SILK Beacon**
-- Weaving Your Business Tapestry
+- Crafting Your Business Framework
 - Couture Workshops Expansion
-- Weaving Your SILK Business into Success
+- Cultivating Your SILK Business into Success
