@@ -1,6 +1,6 @@
 # 1. Storyboard Prompts for a Woman:
                                
-1. A light grayscale image of the woman delicately untangling the threads, signifying the initial stages of her life coaching journey. As the threads separate, hints of light break through, representing self-awareness and the beginning of clarity.
+1. A lateral view side image of a little Asian girl, holding some tangled silk threads, background chaotic, to symbolize the girl's spirit in disarray and confusion.
 2. A light grayscale image, a tumultuous whirl of silk threads, representing the woman's spirit ensnared in chaos. Dark hues and tangled formations symbolize the confusion and complexity of her life's challenges.
 3. Show the threads being smoothed out, straightened, and prepared. This represents the woman's spirit being nurtured and guided, smoothing out the creases of past troubles.
 4. create a image on Amidst the rhythmic clack of the loom, threads of resilience intertwine, weaving a tapestry of empowerment. In the gentle hum of the room, a woman stands amidst the dance of silk, each delicate thread a testament to her inner strength, as she crafts a new narrative of courage and fortitude.
