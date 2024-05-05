@@ -10,11 +10,13 @@ Over two years, participants will dive deep into the principles of building and 
 
 ### Why Apply?
 
-- **Transformative Learning:** Engage in an immersive, hands-on learning environment that emphasizes practical experience.
-- **Diverse Skill Set:** Acquire unique skills in product management, YACHT building, and the SILK Virtues for personal and professional growth.
-- **Mentorship from Mr. Hackney:** Learn from the experiences and insights of a seasoned professional with a global footprint in hospitality and technology.
-- **Career Opportunities:** Prepare for versatile career paths in hospitality, technology, consultancy, and beyond.
-- **Community and Network:** Become part of a community of like-minded individuals and gain access to a professional network that spans the globe.
+| Benefit               | Description                                                                                       |
+|-----------------------|---------------------------------------------------------------------------------------------------|
+| **Transformative Learning** | Engage in an immersive, hands-on learning environment that emphasizes practical experience.       |
+| **Diverse Skill Set**       | Acquire unique skills in product management, YACHT building, and the SILK Virtues for personal and professional growth. |
+| **Mentorship from Mr. Hackney** | Learn from the experiences and insights of a seasoned professional with a global footprint in hospitality and technology. |
+| **Career Opportunities**    | Prepare for versatile career paths in hospitality, technology, consultancy, and beyond.           |
+| **Community and Network**  | Become part of a community of like-minded individuals and gain access to a professional network that spans the globe.     |
 
 ### How to Apply
 
