@@ -22,9 +22,9 @@ Over two years, participants will dive deep into the principles of building and 
 
 We are looking for passionate, motivated individuals ready to embark on this life-changing journey. If you believe you have what it takes to be a part of the SILK Life Training Program, we encourage you to apply. Please find the relevant links below for more information and the application process:
 
-1. **[Apply Now](https://github.com/NoteHive/Silk-Corp-Guide/blob/72f98793155bd8ec43967d9c9eb1233af61da013/Visa/apply.md)**: Start your application today and take the first step towards a future filled with possibilities.
-2. **[Program Outline](https://github.com/NoteHive/Silk-Corp-Guide/blob/72f98793155bd8ec43967d9c9eb1233af61da013/Visa/program.md)**: Learn more about the program's structure, objectives, and what you can expect from this transformative experience.
-3. **[Why SILK?](https://github.com/NoteHive/Silk-Corp-Guide/blob/3a87b374ea6ca076322d2b54159e017b4513dbcf/Visa/why.md)**: Discover the unique fusion of hospitality and technology that sets the SILK Life Training Program apart. Learn about Mr. Hackney's visionary approach and SILK Corp's industry expertise that together create a learning experience unmatched in traditional academic settings and exclusive to the United States.
+1. **[Apply Now](https://github.com/NoteHive/Silk-Corp-Guide/blob/main/Visa/apply.md)**: Start your application today and take the first step towards a future filled with possibilities.
+2. **[Program Outline](https://github.com/NoteHive/Silk-Corp-Guide/blob/main/Visa/program.md)**: Learn more about the program's structure, objectives, and what you can expect from this transformative experience.
+3. **[Why SILK?](https://github.com/NoteHive/Silk-Corp-Guide/blob/main/Visa/why.md)**: Discover the unique fusion of hospitality and technology that sets the SILK Life Training Program apart. Learn about Mr. Hackney's visionary approach and SILK Corp's industry expertise that together create a learning experience unmatched in traditional academic settings and exclusive to the United States.
 
 ### Join Us
 
