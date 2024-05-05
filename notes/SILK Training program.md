@@ -1,5 +1,5 @@
 ## Our Approach"
-- We’re going to offer a 1-year training program for SILK
+- We’re going to offer a 2-year training program for SILK
 - In partnership with Tao Learning
 - Your handbook should cater around this training program
 - And needs to emphasize cultural immersion and cultural fusion
