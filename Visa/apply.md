@@ -37,31 +37,26 @@ To apply for the SILK Life Training Program, you will need the following:
 
 ### Step 2: Submit the SILK Matrix
 
-As part of your application, you are required to create and submit a SILK Matrix. This unique portfolio is designed to illustrate your alignment with the SILK Life values and your proficiency in activities related to the SILK YACHT concept. Your SILK Matrix should be a vibrant showcase of up to 20 photos, each accompanied by a brief description. These should be arranged across 4 rows representing the SILK virtues (Strength, Integrity, Love, Knowledge) and 5 columns corresponding to the Y.A.C.H.T. components (Yoga, Arts, Cafe, Home, Tech).
+As part of your application, you are required to create and submit a SILK Matrix. This unique portfolio is designed to illustrate your alignment with the SILK Life values and your proficiency in activities related to the SILK YACHT concept. Your SILK Matrix should be a vibrant showcase of up to 20 photos, each accompanied by a brief description. These should be arranged to represent the SILK virtues (Strength, Integrity, Love, Knowledge) and the Y.A.C.H.T. components (Yoga, Arts, Cafe, Home, Tech).
 
-#### Examples of What to Include in Your SILK Matrix:
-
-- **Strength (Yoga):** A photo of you in a challenging yoga pose, demonstrating physical or mental resilience, accompanied by a description of how this practice enhances your strength.
-  
-- **Integrity (Arts):** An image of an art project you've completed, which could be a painting, sculpture, or digital art, that conveys a message of honesty or ethical principles. Describe how your artwork reflects your personal integrity.
-
-- **Love (Cafe):** Capture a moment where you're preparing a meal for others, highlighting the care and thoughtfulness put into the food. Explain how this act of service embodies your capacity for love and nurturing in a communal setting.
-
-- **Knowledge (Home):** A snapshot of a DIY home improvement project or an innovative home organization solution you've implemented. Your description should detail the knowledge gained from this experience and its impact on your living environment.
-
-- **Strength (Tech):** Showcase a tech project or app you've developed or contributed to, focusing on the problem-solving skills and perseverance required. Discuss the strength it took to overcome challenges during the project.
-
-- **Integrity (Yoga):** A reflective pose or meditation setting where you're engaged in self-examination or ethical contemplation. Describe how yoga supports your commitment to living with integrity.
-
-- **Love (Arts):** A photo of you volunteering in an art class for children or participating in a community mural project. Illustrate how these activities demonstrate your love for enriching others' lives through art.
-
-- **Knowledge (Cafe):** An image of you experimenting with a new recipe or cooking technique, along with insights into what you learned from the experience and how it expanded your culinary knowledge.
-
-- **Strength (Home):** A picture of you tackling a challenging home repair or renovation project. Describe the physical and mental fortitude required and the satisfaction of completing the task.
-
-- **Integrity (Tech):** An example of a technology solution you've created that addresses a social or ethical issue. Explain the integrity behind the project's conception and its impact.
+| SILK Virtue | Y.A.C.H.T. Component | Example |
+|-------------|----------------------|---------|
+| **Strength** | Yoga | A photo of you in a challenging yoga pose, demonstrating resilience, with a description of how this practice enhances your strength. |
+| **Integrity** | Arts | An image of an art project that conveys honesty or ethical principles, with a description of how it reflects your integrity. |
+| **Love** | Cafe | A moment of you preparing a meal for others, with an explanation of how this act embodies love and nurturing. |
+| **Knowledge** | Home | A snapshot of a DIY home project, detailing the knowledge gained and its impact on your environment. |
+| **Strength** | Tech | Showcase a tech project, focusing on the problem-solving skills required, with a discussion on the challenges overcome. |
+| **Integrity** | Yoga | A reflective pose or meditation setting, with a description of how yoga supports your commitment to integrity. |
+| **Love** | Arts | A photo of you volunteering in an art class or community project, illustrating how it demonstrates your love for enriching others' lives. |
+| **Knowledge** | Cafe | An image of you experimenting with a new recipe, along with insights into what you learned from the experience. |
+| **Strength** | Home | A picture of you tackling a challenging home repair, describing the fortitude required and the satisfaction of completion. |
+| **Integrity** | Tech | An example of a technology solution addressing a social issue, explaining the integrity behind the project's conception. |
 
 Your SILK Matrix is more than just a collection of photos; it's a narrative of how you embody the SILK virtues through the Y.A.C.H.T. components. Each entry should be a testament to your adaptiveness, creativity, and commitment to the SILK Life values.
+
+#### Sharing Your SILK Matrix
+
+In addition to submitting your SILK Matrix, you are encouraged to share your journey and the activities that align with the SILK YACHT concept on social media. Use the **#silklife** hashtag on Instagram to showcase your experiences, create a montage on YouTube, or choose any other media sharing method that best represents your engagement with the SILK virtues. This is an excellent opportunity to visually communicate your alignment with the SILK Life values and further enrich your application.
 
 ### Step 3: Email Your Application
 

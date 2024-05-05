@@ -1,10 +1,10 @@
 # Welcome to the SILK Life Training Program
 
-The Tao Learning Institute, in partnership with SILK Corp, is thrilled to invite applications for the SILK Life Training Program. This unique 2-year journey, designed by the visionary Mr. Hackney, is not just a learning experience but a transformative adventure that prepares you for a future of innovation, creativity, and leadership in the realms of hospitality, technology, and beyond.
+The [Tao Learning Institute](https://taolearning.org), in partnership with [SILK Corp](https://silkcorp.org), is thrilled to invite applications for the SILK Life Training Program. This unique 2-year journey, designed by the visionary Mr. Hackney, is not just a learning experience but a transformative adventure that prepares you for a future of innovation, creativity, and leadership in the realms of hospitality, technology, and beyond.
 
 ### About the Program
 
-The SILK Life Training Program is an embodiment of Mr. Hackney's illustrious career as a professional ballroom dancer, an award-winning creative director, a product developer, and the proprietor of numerous 5-Star boutique getaways worldwide. With a history of significant achievements in Silicon Valley and creative arts enhanced by his tenure at Disney & ABC, Mr. Hackney has designed this program to cultivate the next wave of influencers, creative directors, product managers, and hospitality professionals.
+The SILK Life Training Program is an embodiment of Mr. Hackney's illustrious career as a professional ballroom dancer, an award-winning creative director, a product developer, and the proprietor of numerous 5-Star boutique getaways worldwide. With a history of significant achievements in Silicon Valley and creative arts enhanced by his tenure at Disney & ABC, Mr. Hackney has designed this program to cultivate the next wave of influencers, creative directors, product managers, and hospitality professionals. He created nationally-known fitness programs such as [Airikai](https://airikai.com), having reached millions of viewers worldwide.
 
 Over two years, participants will dive deep into the principles of building and managing SILK YACHTs across both physical and digital spaces. This program is rooted in the SILK virtues of Strength, Integrity, Love, and Knowledge, aiming to equip you with the skills necessary for a successful career in various industries while promoting a balanced lifestyle adaptable to life's many chapters.
 
