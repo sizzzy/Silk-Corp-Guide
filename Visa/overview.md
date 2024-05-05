@@ -27,4 +27,4 @@ We are looking for passionate, motivated individuals ready to embark on this lif
 
 The SILK Life Training Program is more than just an educational course; it's a pathway to discovering your potential and making a significant impact in the world. We look forward to welcoming you to our community and together, shaping the future of innovation and hospitality.
 
-For any questions or further information, please do not hesitate to reach out. Your journey towards mastering the SILK virtues and becoming a Product Champion starts here.
+For any questions or further information, please do not hesitate  to contact us at [info@silkcorp.org](mailto:info@silkcorp.org). Your journey towards mastering the SILK virtues and becoming a Hospitality & Product Champion starts here.
