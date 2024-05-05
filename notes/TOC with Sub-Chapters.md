@@ -169,7 +169,7 @@
 
      -  Charting Professional Pathways within the Silk Community
 
-- ***SILKY Skills Development***:
+- ***SILK Skills Development***:
 
      -  Training Programs for Continued Personal & Professional Growth
 
