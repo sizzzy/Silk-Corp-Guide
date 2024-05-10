@@ -16,7 +16,7 @@
 
 ---
 
-## :star2: Immigration Documents
+## Immigration Documents
 
 Progress: 0%
 
@@ -41,7 +41,7 @@ Progress: 0%
 
 - :white_check_mark: **Alien Registration Number, if applicable**
 
-## :star2: Educational and Professional Documentation
+## Educational and Professional Documentation
 
 Progress: 0%
 
@@ -67,7 +67,7 @@ Progress: 0%
 - :white_check_mark: **English Language Proficiency**
   - Provide results from tests like IELTS (https://ielts.org/) or TOEFL (https://www.ets.org/toefl.html) as proof of English proficiency. Include both physical and digital copies.
 
-## :star2: Financial Documentation
+## Financial Documentation
 
 Progress: 0%
 
@@ -88,7 +88,7 @@ Progress: 0%
 - :white_check_mark: **Other Evidence of Ties to Home Country**
   - It is crucial for nonimmigrant visa applicants to demonstrate strong ties to their home country to assure the consular officer that they intend to return after their temporary stay in the U.S. Suggest including documents like property deeds, family ties, or a letter from an employer indicating the applicant's intent to return.
 
-## :star2: Documents from the Sponsor
+## Documents from the Sponsor
 
 Progress: 0%
 
@@ -103,13 +103,13 @@ Progress: 0%
 
 - :white_check_mark: **An explanation of the benefits to the Sponsor and the reason for bearing the training cost.**
 
-## :star2: Copy of Form-129, including H Supplement
+## Copy of Form-129, including H Supplement
 
 Progress: 0%
 
 - Secure physical and digital copies after the sponsor has applied to USCIS.
 
-## :star2: Apply for the DS-160 Online
+## Apply for the DS-160 Online
 
 Progress: 0%
 
@@ -131,27 +131,27 @@ Progress: 0%
 - :white_check_mark: **[DS-160 Online Application](https://ceac.state.gov/GenNIV/Default.aspx)**
   - Take your time when applying! See the "Important: Before You Start" for the Instructions.
 
-## :star2: Printed DS-160 Form After Online Application
+## Printed DS-160 Form After Online Application
 
 Progress: 0%
 
 - Print and keep the DS-160 barcode page. Upon completing the DS-160 form, you will receive a confirmation page with a barcode. You need to print this page as you will have to present it at your visa interview.
 
-## :star2: Schedule a Visa Interview
+## Schedule a Visa Interview
 
 Progress: 0%
 
 - Schedule a Visa Interview Appointment. (The U.S. Embassy or Consulate does not schedule an appointment for you.) Visit the [U.S. Embassy or Consulate website](https://www.usembassy.gov/) where you will be interviewed for country-specific instructions.
 - Once your profile is set up and your visa application fee is processed, you can schedule your visa interview. Available dates and times for interviews will be shown on the website. The wait time for an interview slot can vary greatly depending on the location, visa category, and time of year, so it's advisable to schedule your interview as soon as you are able to.
 
-## :star2: Visa Processing Payment
+## Visa Processing Payment
 
 Progress: 0%
 
 - Pay the visa application processing fee. Review country-specific instructions on the U.S. Embassy or Consulate website.
 - If you haven't already, you will need to pay the non-refundable visa application fee, also known as the MRV fee. The payment method varies by location, and instructions are usually provided on the website of the U.S. embassy or consulate where you will apply.
 
-## :star2: Interview Guide
+## Interview Guide
 
 Progress: 0%
 
@@ -164,7 +164,7 @@ Progress: 0%
 
 ---
 
-## :star2: Resources
+## Resources
 
 - [USCIS - H-3 Program](https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-3-nonimmigrant-trainee-or-special-education-exchange-visitor)
 - [Chapter 3 - Trainee Program Requirements | USCIS](https://www.uscis.gov/policy-manual/volume-2-part-j-chapter-3)
