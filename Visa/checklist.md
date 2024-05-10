@@ -55,7 +55,7 @@ Progress: 0%
   - Secure physical and digital copies of transcripts from all educational institutions attended. Transcripts should be in sealed envelopes if possible.
 
 - :white_check_mark: **US Equivalence of your Transcripts using ECE or WES**
-  - Obtain evaluations from recognized organizations like WES (https://www.wes.org/contact-us/#) for a Course-by-Course Evaluation or ECE (https://accounts.ece.org/login). This is crucial for applicants with education from countries with different grading systems. Create an account with WES or ECE.
+  - Obtain evaluations from recognized organizations like WES (https://www.wes.org/contact-us/#) for a Course-by-Course Evaluation or ECE (https://accounts.ece.org/login). This is crucial for applicants with education from countries with different grading systems. To start, create an account with WES or ECE.
   - Request an official copy of your transcripts from your educational institution and have them placed in an envelope bearing the institution's letterhead. Ensure the envelope is sealed with the school's official stamp over the closure to secure the contents. Address this envelope to either ECE or WES for evaluation. You can have both ECE or WES Evaluations. Additionally, inquire with your institution if they can facilitate sending it directly on your behalf.
 
 - :white_check_mark: **Letters of Recommendation**
