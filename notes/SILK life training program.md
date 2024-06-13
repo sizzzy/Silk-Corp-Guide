@@ -48,37 +48,37 @@ o	Emergency Contact Information and Support Services
 ### UPDATED Table of contents. 
 ### SILK Life Training Program: Detailed Table of Contents
 Introduction Section
--1.Cover Slide: SILK Life Training Program
+- 1.Cover Slide: SILK Life Training Program
 
--2.Welcome to SILK Life: Introduction and Program Overview
+- 2.Welcome to SILK Life: Introduction and Program Overview
 
--3.The SILK Philosophy and Program Goals: Core Values and Objectives
+- 3.The SILK Philosophy and Program Goals: Core Values and Objectives
 
--Integration with Global Eco Village Network (GEN) principles
+-   Global Eco Village Network (GEN) principles
 
 ### Program Details Section
 4.Program Eligibility and Selection Criteria
 
--Detailed eligibility requirements
+- Detailed eligibility requirements
 
--Outline of the selection process
+- Outline of the selection process
 ### 5  Detailed Curriculum with Hourly Breakdown
--Comprehensive curriculum overview
+- Comprehensive curriculum overview
 
--Balance between classroom instruction and on-the-job training
+- Balance between classroom instruction and on-the-job training
 
 ### Incorporation of Family Consumer Science Topics
--Family and Human Development
+- Family and Human Development
 
--Nutrition and Food Science
+- Nutrition and Food Science
 
--Consumer Economics and Resource Management
+- Consumer Economics and Resource Management
 
--Housing and Interior Design
+- Housing and Interior Design
 
--Textiles and Apparel
+- Textiles and Apparel
 
--Parenting and Child Development
+- Parenting and Child Development
 
 -Family and Community Services
 
