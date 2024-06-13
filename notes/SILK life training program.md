@@ -45,5 +45,7 @@ o	Emergency Contact Information and Support Services
  22. The SILK Journey Ahead and Thank You Slide - Looking forward and expressing gratitude
 ### Design and Content Tips
 23. Detail-Oriented: Ensure each slide provides specific information required by USCIS, focusing on the structure, benefits, and compliance aspects of the program. 24. Engaging and Informative: Use visuals and real-life examples to make the presentation engaging while ensuring it remains informative and comprehensive. 25. Clear and Concise: Keep information clear and concise, especially when detailing the curriculum, supervision, and legal compliance aspects. 26. Cultural Sensitivity and Exchange: Highlight the program's commitment to cultural exchange, showcasing how it fosters understanding and integration between participants and the local community.
+### UPDATED Table of contents. 
+
 
 
