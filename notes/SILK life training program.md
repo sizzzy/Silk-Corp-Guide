@@ -222,10 +222,12 @@ Boating, sketching, product management training, etc.
 This updated presentation aims to meet USCIS requirements comprehensively, showcasing the SILK Life Training Program's commitment to providing a well-structured, beneficial, and compliant training experience. Consulting with an immigration attorney or a professional experienced in H-3 visa applications to review the program outline and application before submission is highly recommended.
 ### UPDATED Table of contents.
 ### SILK Life Training Program: Detailed Table of Contents
-1. Introduction Section
-### 1 Cover Slide: SILK Life Training Program
-### 2  Welcome to SILK Life: Introduction and Program Overview
-###  3 The SILK Philosophy and Program Goals: Core Values and Objectives
+### . Introduction Section
+ 1 Cover Slide: SILK Life Training Program
+ 
+ 2  Welcome to SILK Life: Introduction and Program Overview
+ 
+3 The SILK Philosophy and Program Goals: Core Values and Objectives
 ### Introduction to Family and Consumer Sciences (FCS)
 - Overview of FCS and its relevance to SILK Life
 - Key areas of FCS: Family and Human Development, Nutrition and Food Science, Consumer Economics, Housing and Interior Design, Textiles and Apparel, Parenting and Child Development, Family and Community Services
