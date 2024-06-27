@@ -1,37 +1,37 @@
 
 ### UPDATED Table of contents 
 ### SILK Life Training Program: Detailed Table of Contents
--Introduction Section
--1.	Cover Slide: SILK Life Training Program
--2.	Welcome to SILK Life: Introduction and Program Overview
--3.	The SILK Philosophy and Program Goals: Core Values and Objectives
--4.	Introduction to Family and Consumer Sciences (FCS)
+- Introduction Section
+- 1.	Cover Slide: SILK Life Training Program
+- 2.	Welcome to SILK Life: Introduction and Program Overview
+- 3.	The SILK Philosophy and Program Goals: Core Values and Objectives
+- 4.	Introduction to Family and Consumer Sciences (FCS)
 	-Overview of FCS and its relevance to SILK Life
 ### Key areas  of FCS: Family and Human Development, Nutrition and Food Science, Consumer Economics, Housing and Interior Design, Textiles and Apparel, Parenting and Child - -Development, Family and Community Services
 ### -5.	Introduction to Global Ecovillage Network (GEN)
-	-Overview of GEN and its mission
--How GEN principles are integrated into SILK Life
+	- Overview of GEN and its mission
+- How GEN principles are integrated into SILK Life
 - Program Details Section
 ### 6.	Program Eligibility and Selection Criteria
 	- Detailed eligibility requirements
-- 	Outline of the selection process
+	- Outline of the selection process
 ### 7.	Detailed Curriculum with Hourly Breakdown
 	- Comprehensive curriculum overview
  - Balance between classroom instruction and on-the-job training
 - 	Integration of FCS principles into the curriculum
 -  Incorporation of GEN practices into daily activities
 ### 8.	Supervision and Training Personnel
-o	Information on supervisors and their qualifications
-o	Mentorship and support structures
+- Information on supervisors and their qualifications
+	- Mentorship and support structures
 ### Participant Support Section
 ### 9  Participant Compensation (If Applicable)
-o	Details on compensation and compliance with wage laws
+	- Details on compensation and compliance with wage laws
 ### Post-Training Plan
 	- Expected outcomes and career prospects enhancement
 ### 10 Compliance with U.S. Labor Laws
 	- Assurance of adherence to labor laws
 12.	### Health Insurance and Medical Care
-o	Provisions for health insurance and medical care
+13.		- Provisions for health insurance and medical care
 ### Cultural and Professional Development Activities
 ###  Cultural Exchange Component
 	- Description of cultural exchange activities
