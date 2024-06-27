@@ -19,4 +19,18 @@ Family dynamics and relationships: FCS focuses on enhancing family dynamics and 
 Resource management and sustainability: FCS emphasizes the efficient and sustainable management of resources, including time, money, energy, and material goods. It promotes responsible consumption, environmentally-friendly practices, and financial literacy to support individuals and families in making informed decisions about their resources.
 Child development and parenting: FCS provides a comprehensive understanding of child development stages, parenting strategies, and the creation of nurturing environments conducive to healthy child development. It aims to equip parents and caregivers with the knowledge and skills necessary for effective parenting.
 Housing and living environments: FCS explores principles of housing, interior design, and the creation of functional and aesthetically pleasing living environments. It addresses the impact of living spaces on overall well-being and provides guidance. 
+#### key points of FCS 
 
+Family and Consumer Sciences (FCS) already covers a broad and important range of topics, but there's always room to consider how the curriculum can stay relevant and address emerging issues. Here are some ideas for what you can add to FCS classes:
+
+FinTech and Financial Literacy: Personal finance is a core FCS subject, but you can integrate the growing world of financial technology (FinTech) like budgeting apps, cryptocurrency, and online investing.
+Mental Health and Wellness: Mental health is a growing concern, and FCS classes can incorporate topics like stress management, healthy coping mechanisms, and identifying mental health resources.
+Sustainability and Eco-Friendly Living: FCS can teach students how to make eco-conscious choices in areas like food production, clothing consumption, and housing efficiency.
+Entrepreneurship and Innovation: FCS can empower students with the skills to identify needs, develop solutions, and turn ideas into small businesses.
+Cybersecurity and Digital Citizenship: As our lives become increasingly digital, FCS can teach students about online safety, responsible social media use, and protecting their digital identities.
+In addition to these specific topics, consider incorporating more:
+
+Project-Based Learning: FCS excels at this already, but emphasize real-world application through projects that address community needs or personal goals.
+Social-Emotional Learning (SEL): Integrating SEL skills like communication, collaboration, and problem-solving can benefit students in all aspects of life.
+Culturally Responsive Teaching: Tailoring the curriculum to be inclusive of diverse backgrounds and experiences fosters a more engaging learning environment.
+By staying current and responsive to student needs, FCS classes can continue to equip young people with the knowledge and skills they need to thrive in the modern world.
