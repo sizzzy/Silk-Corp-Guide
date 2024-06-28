@@ -160,7 +160,7 @@ Looking forward and expressing gratitude
 *Detail-Oriented: Ensure each slide provides specific information required by USCIS, focusing on the structure, benefits, and compliance aspects of the program.
 *Engaging and Informative: Use visuals and real-life examples to make the presentation engaging while ensuring it remains informative and comprehensive.
 *Clear and Concise: Keep information clear and concise, especially when detailing the curriculum, supervision, and legal compliance aspects.
-*Cultural Sensitivity and Exchange: Highlight the program's commitment to cultural exchange, showcasing how it fosters understanding and integration between participants and the local community.
+*Cultural Sensitivity and Exchange: Highlight the program's commitment to cultural exchange, showcasing how it fosters understanding and integration between participants and the local 
 
 
 
