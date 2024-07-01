@@ -2,10 +2,10 @@
 ### UPDATED Table of contents 
 ### SILK Life Training Program: Detailed Table of Contents
 - Introduction Section
-- 1.	Cover Slide: SILK Life Training Program
-- 2.	Welcome to SILK Life: Introduction and Program Overview
-- 3.	The SILK Philosophy and Program Goals: Core Values and Objectives
-- 4.	Introduction to Family and Consumer Sciences (FCS)
+ 1.	Cover Slide: SILK Life Training Program
+ 2.	Welcome to SILK Life: Introduction and Program Overview
+ 3.	The SILK Philosophy and Program Goals: Core Values and Objectives
+ 4.	Introduction to Family and Consumer Sciences (FCS)
 	-Overview of FCS and its relevance to SILK Life
 ### Key areas  of FCS: Family and Human Development, Nutrition and Food Science, Consumer Economics, Housing and Interior Design, Textiles and Apparel, Parenting and Child - -Development, Family and Community Services
 ### -5.	Introduction to Global Ecovillage Network (GEN)
@@ -77,11 +77,11 @@ This updated presentation aims to meet USCIS requirements comprehensively, showc
 ### updated TABLE OF CONTENTS 
 ### SILK Life Training Program: Detailed Table of Contents
 ### Introduction to SILK Lifestyle
-* Cover Slide: SILK Life - Pioneering Sustainable Community Living
-* The SILK Vision: Integrating Personal Growth, Family Wellness, and Community Sustainability
-* SILK Philosophy and Values: Society, Integrity, Love, and Knowledge in Action
+### 1. Cover Slide: SILK Life - Pioneering Sustainable Community Living
+### 2. The SILK Vision: Integrating Personal Growth, Family Wellness, and Community Sustainability and Ecological Harmony
+### 3. SILK Philosophy and Values: Society, Integrity, Love, and Knowledge in Action 
 ### Program Details Section
-### Program Eligibility and Selection Criteria
+###  4 Program Eligibility and Selection Criteria
 * Detailed eligibility requirements
 * Outline of the selection process
 ### 5  Detailed Curriculum with Hourly Breakdown
@@ -119,39 +119,39 @@ This updated presentation aims to meet USCIS requirements comprehensively, showc
 *Details on compensation and compliance with wage laws
 ### Post-Training Plan
 *Expected outcomes and career prospects enhancement
-### 17 Compliance with U.S. Labor Laws
+### 15 Compliance with U.S. Labor Laws
 Assurance of adherence to labor laws
 Health Insurance and Medical Care
-###18  Provisions for health insurance and medical care
+### 16 Provisions for health insurance and medical care
 Cultural and Professional Development Activities
 ### Cultural Exchange Component
-### 19 Description of cultural exchange activities
-### 20 Emergency Contact Information and Support Services
+### 17 Description of cultural exchange activities
+### 18 Emergency Contact Information and Support Services
 Emergency contacts and support services for participants
 * SILK Virtues and YACHT Activities Section
-### 21 SILK Virtues Detailed Overview
-Strength, Integrity, Love, Knowledge
-###22  YACHT Activities Comprehensive Breakdown
+### 19 SILK Virtues Detailed Overview
+Society , Integrity, Love, Knowledge
+### 20   YACHT Activities Comprehensive Breakdown
 Yoga, Arts, Cafe, Home, Tech
 ### Safety and Security Section
-### 22 Living Arrangements and Safety Measures
+### 21  Living Arrangements and Safety Measures
 Housing safety and security measures
-### 23 Smart Home Technology and Surveillance
+### 22 Smart Home Technology and Surveillance
 Use of technology for participant safety
 ### Cultural Immersion and Professional Development
-### 24 Local Festivals and Cultural Events
+### 23 Local Festivals and Cultural Events
 Engagement with local traditions
-### 25 Professional Development Activities
+### 24 Professional Development Activities
 Boating, sketching, product management training, etc.
 ### Program Completion and Future Opportunities
-### 26 Graduation, Certification, and Career Pathways
+### 25 Graduation, Certification, and Career Pathways
 * Celebrating achievements and exploring future opportunities
-### 27  SILK Life Franchise and Alumni Network
+### 26  SILK Life Franchise and Alumni Network
 Expansion opportunities and building long-term connections
 Appendices and Additional Information
-### 28 Testimonials and Success Stories
+### 27 Testimonials and Success Stories
 Voices from the SILK Life community
-### 29  FAQs and Contact Information
+### 28  FAQs and Contact Information
 Addressing common questions and providing contact info
 Closing Section
 ### The SILK Journey Ahead and Thank You Slide
