@@ -20,7 +20,7 @@
 
 -   Outline of the selection process
  
-###  Detailed Curriculum with Hourly Breakdown
+###  "What You will  Learn: A Day-by-Day Breakdown.
  
 -   Comprehensive curriculum overview
 
@@ -43,6 +43,7 @@
 -   Connecting SILK communities worldwide
 
 -   Sharing best practices and resources across the network
+-  "Develop Your Skills: From Healthy Living to Sustainable Practices.
  
 ## SILK Life Curriculum
  
