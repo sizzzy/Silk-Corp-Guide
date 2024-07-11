@@ -42,14 +42,10 @@
 - Clarity of Values and Goals: Understanding what truly matters and setting meaningful goals
 - Mindfulness and Purposeful Actions: Making deliberate choices aligned with core values
 - Simplification: Reducing physical and mental clutter to focus on what truly matters
-### Collaborative Living and Social Cohesion
-- Shared Values and Goals: Common purposes such as environmental sustainability, social justice, or spiritual growth
-- Collaborative Decision-Making: Consensus and other collaborative processes for governance
-- Resource Sharing: Housing, food, and transportation to reduce costs and environmental impact
-- Community Activities: Shared meals, work projects, and social events to strengthen social bonds
-- Sustainability: Prioritizing sustainable living practices like organic farming, renewable energy, and waste reduction
- - Develop Your Skills: From Healthy Living to Sustainable Practices.
- 
+## Collaborative Living and Social Cohesion
+- Shared Values and Collaborative Governance: Common purposes like environmental sustainability, social justice, or spiritual growth, with consensus-based decision-making.
+- Resource Sharing and Community Activities: Sharing housing, food, and transportation to reduce costs and environmental impact, and engaging in shared meals, work projects, and social events.
+- Commitment to Sustainability: Prioritizing sustainable living practices such as organic farming, renewable energy, and waste reduction.
 ## SILK Life Curriculum
  
 ###  Holistic Sustainable Living and Resource Management
