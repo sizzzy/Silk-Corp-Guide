@@ -183,6 +183,3 @@ This revised Table of Contents now includes the Post-Training Plan as a section 
 
 
 
-
-Equity in the USA refers to the principle of fairness and justice in providing opportunities and resources, ensuring that all individuals, regardless of their background or circumstances, have the support they need to achieve similar outcomes. It involves recognizing and addressing systemic inequalities and tailoring support to meet diverse needs.
- 
