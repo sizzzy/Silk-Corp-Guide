@@ -1,8 +1,8 @@
-Welcome to the SILK Life Program Handbook
+### Welcome to the SILK Life Program Handbook
 
 Welcome to the SILK Life Program Handbook, your comprehensive guide to navigating life's journey with clarity, purpose, and resilience. At SILK Corp, we believe in the transformative power of four core principles: Society, Integrity, Love, and Knowledge. These principles form the foundation of the SILK Life Program, guiding you towards a balanced and fulfilling life.
 
-What is SILK?
+### What is SILK?
 
 SILK stands for Society, Integrity, Love, and Knowledge. It is a holistic approach to personal and communal development, designed to help individuals and communities thrive. Each component of SILK represents a vital aspect of a well-rounded and meaningful life:
 
