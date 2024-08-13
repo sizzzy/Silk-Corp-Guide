@@ -44,10 +44,13 @@ Ultimately, the SILK Life Program aspires to create a more compassionate, respon
 
 #### 1)Personal Growth
 ###### Holistic Development: 
-Prioritize physical, mental, and emotional well-being through regular exercise, balanced nutrition, and adequate rest.
+- Prioritize physical, mental, and emotional well-being
+- Regular exercise, balanced nutrition, and adequate rest.
 
 ###### Continuous Learning: 
-Stay curious, set SMART goals, and engage in lifelong learning for personal and professional development.
+Stay curious
+Set SMART goals
+Engage in lifelong learning for personal and professional development.
 ###### Mindfulness Practices: 
 Incorporate meditation and self-reflection to enhance self-awareness and build resilience.
 
@@ -143,6 +146,54 @@ Support educational initiatives and innovative thinking that drive progress and 
 Foster an environment where critical thinking and creativity are valued and cultivated.
 
 Join us at SILK Life, where every thread of your being is valued, and every step you take is a step towards a brighter, more sustainable world. Welcome to a community where you will embark on a path of discovery, growth, and empowerment
+
+
+### SECTION # 02: Program Details
+
+# Program Eligibility and Selection Criteria
+
+### Eligibility requirements
+
+
+##### 1. Educational Background
+- Minimum Requirement:
+Candidates must hold a high school diploma or an equivalent qualification.
+##### 2. Personal SILK YACHT Matrix
+- Mandatory Submission: 
+Applicants are required to submit a comprehensive personal SILK YACHT Matrix. This matrix should detail their skills, interests, leadership qualities, knowledge areas, and notable achievements.
+##### 3. Interest and Experience
+- Product Management: 
+Applicants must demonstrate a clear interest in product management through previous experiences, coursework, or related activities.
+- Innovation:
+A proven passion for innovation is essential, as evidenced by involvement in creative projects or initiatives.
+- Sustainability:
+Candidates must show a strong commitment to sustainability, supported by relevant activities or organizational involvement.
+- Persona Creation: 
+Experience or a demonstrated interest in persona creation is highly desirable.
+##### 4. Relocation Commitment
+- Willingness to Relocate: Applicants must express a willingness to relocate to the Mid-Ohio Valley for the duration of the program. This ensures full immersion in the SILK Corp environment.
+##### 5. Visa Compliance
+- International Applicants: 
+Candidates from outside the United States must comply with all U.S. visa requirements to be eligible for the program.
+#### Conclusion
+The enhanced selection criteria for SILK Corp are designed to identify and attract candidates who meet essential educational qualifications, possess a well-rounded personal profile, demonstrate professional interests aligned with the company's values, and are committed to relocation and visa compliance. These criteria ensure the selection of a dedicated and capable team poised to drive innovation and sustainability within the organization.
+
+### Selection criteria
+
+##### 1)Comprehensive Evaluation
+The selection process at SILK Corp entails a meticulous and thorough evaluation of various components:
+
+- Application Form: Detailed review to ensure completeness and accuracy.
+- Supporting Documents: Verification and assessment of transcripts, certificates, and letters of recommendation.
+- SILK YACHT Matrix: In-depth analysis to understand the candidate’s skills, interests, leadership qualities, knowledge areas, and achievements.
+- Personal Statements: Evaluation to gain insight into the candidate’s motivations and aspirations.
+- Screening Times: Preliminary evaluation to shortlist candidates based on their fit with program requirements.
+- Interviews: Comprehensive interviews to assess suitability, focusing on experience, skills, and alignment with SILK Corp’s mission and values.
+##### 2)Alignment with SILK Philosophy
+Candidates are rigorously assessed for their alignment with the SILK Life philosophy:
+
+- Core Values: Demonstration of a strong alignment with SILK Corp’s core values, including innovation, sustainability, and leadership.
+- Potential for Success: Evaluation of the candidate’s potential to excel and thrive within the program, based on past experiences and future aspirations.
 
 
 
